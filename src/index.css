@@ -1,0 +1,40 @@
+body {
+  max-width: 75%;
+  margin: 0 auto;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+.MuiCard-root{
+  margin:10px;
+  display: inline-block;
+  max-width:400px;
+  min-width:350px;
+}
+
+.card-title{
+  font-family: "Permanent Marker";
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #003d3d;
+  max-width:328px;
+}
+
+.closeIcon {
+    position: absolute !important;
+    right: 5px;
+    top: 5px;
+  }
+
+  .MuiButton-sizeLarge{
+    width: 100%;
+    margin-bottom: 10px !important;
+  }
