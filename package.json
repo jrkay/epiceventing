@@ -1,8 +1,9 @@
 {
-  "name": "ps-redux",
-  "description": "React and Redux Pluralsight course by Cory House",
+  "name": "epic-eventing",
+  "description": "Epic Eventing",
   "scripts": {
-    "start": "webpack-dev-server --config webpack.config.dev.js --port 3000"
+    "start": "webpack-dev-server --config webpack.dev.js --port 3000",
+    "build": "webpack --config webpack.prod.js"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.0",
