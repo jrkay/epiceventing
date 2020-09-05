@@ -1,7 +1,6 @@
 import React, { Component }  from 'react';
 import {Route, Switch} from 'react-router-dom';
 import HomePage from './home/HomePage';
-import AboutPage from './about/AboutPage';
 import Header from './common/Header';
 import Sidebar from './common/Sidebar';
 import HorseGrid from './horseGrid/HorseGrid';
@@ -62,18 +61,16 @@ class App extends Component {
     }
 
     render() {
-        console.log("Click: " + this.state.filter);
         return (
             <div className="container-fluid">
             <Header />
             <Switch>
                 <Route exact path="/" component={HomePage} />
-                <Route path="/about" component={AboutPage} />
                 <Route component={PageNotFound} />
             </Switch>
 
             <Grid container direction="row" justify="center" alignItems="flex-start"
-                spacing={5} style={{border: "1px solid black", flexGrow: "1"}}>
+                spacing={5} style={{flexGrow: "1"}}>
                 <Grid item xs={2}>
                    <Sidebar filter={this.state.filter} handleChange={this.handleChange} />
                 </Grid>

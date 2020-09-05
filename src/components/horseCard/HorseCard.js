@@ -9,6 +9,8 @@ import Grid from '@material-ui/core/Grid';
 import IconButton from '@material-ui/core/IconButton';
 import CloseIcon from '@material-ui/icons/Close';
 import Typography from '@material-ui/core/Typography';
+import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles';
+import { teal } from '@material-ui/core/colors';
 
 class HorseBox extends Component {
     constructor(props) {
@@ -29,6 +31,11 @@ class HorseBox extends Component {
         this.setState({ openedModal: null });
     };
 
+    theme = createMuiTheme({
+        palette: {
+          primary: teal,
+        },
+      });
 
     render() {
     //    const filterStatus = (data.Horses);
@@ -51,9 +58,11 @@ class HorseBox extends Component {
                             </div>
 
                             <div key={i} className="button-link">
-                            <Button variant="outlined" color="primary" onClick={() => this.openModal(i)}>
-                                More Information
-                            </Button>
+                            <ThemeProvider theme={this.theme}>
+                                <Button color="primary" onClick={() => this.openModal(i)}>
+                                    More Information
+                                </Button>
+                            </ThemeProvider>
 
                             <Dialog aria-labelledby="customized-dialog-title" 
                                 open={this.state.openedModal === i}
