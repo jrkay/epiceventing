@@ -1,7 +1,8 @@
 import React, { Component }  from 'react';
 import Button from '@material-ui/core/Button';
 import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles';
-import { teal } from '@material-ui/core/colors';
+import { teal, purple } from '@material-ui/core/colors';
+import SearchBar from '../searchbar/Searchbar';
 
 class Sidebar extends Component {
     constructor(props) {
@@ -10,23 +11,29 @@ class Sidebar extends Component {
   
     theme = createMuiTheme({
         palette: {
-          primary: teal,
+          primary: purple,
         },
       });
 
     render() {
       const {filter, handleChange} = this.props;
       return (
+        <div className="sidebar">
         <ThemeProvider theme={this.theme}>
-          <Button onClick={() => handleChange('')} color="primary" variant="contained" size='large'>Full List</Button>
-          <Button onClick={() => handleChange('Stud')} color="primary" variant="contained" size='large'>All Available Studs</Button>
-          <Button onClick={() => handleChange('Brood')} color="primary" variant="contained" size='large'>All Available Broods</Button>
-          <Button onClick={() => handleChange('Draft')} color="primary" variant="contained" size='large'>Draft</Button>
-          <Button onClick={() => handleChange('Light')} color="primary" variant="contained" size='large'>Light</Button>
-          <Button onClick={() => handleChange('Stock')} color="primary" variant="contained" size='large'>Stock</Button>
-          <Button onClick={() => handleChange('Pony')} color="primary" variant="contained" size='large'>Pony</Button>
-          <Button onClick={() => handleChange('Warmblood')} color="primary" variant="contained" size='large'>Warmblood</Button>
+      {/* <SearchBar /> */}
+
+          <Button className="sidebar-button" onClick={() => handleChange('')} color="primary" variant="contained" size='large'>Full List</Button>
+          <div className="sidebar-button-small">
+          <Button className="left" onClick={() => handleChange('Stud')} color="primary" variant="contained" size='large'>Studs</Button>
+          <Button className="right" onClick={() => handleChange('Brood')} color="primary" variant="contained" size='large'>Broods</Button>
+          </div>
+          <Button className="sidebar-button" onClick={() => handleChange('Draft')} color="primary" variant="contained" size='large'>Draft</Button>
+          <Button className="sidebar-button" onClick={() => handleChange('Light')} color="primary" variant="contained" size='large'>Light</Button>
+          <Button className="sidebar-button" onClick={() => handleChange('Stock')} color="primary" variant="contained" size='large'>Stock</Button>
+          <Button className="sidebar-button" onClick={() => handleChange('Pony')} color="primary" variant="contained" size='large'>Pony</Button>
+          <Button className="sidebar-button" onClick={() => handleChange('Warmblood')} color="primary" variant="contained" size='large'>Warmblood</Button>
         </ThemeProvider>
+        </div>
           );
       }
   } 

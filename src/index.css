@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&family=Dosis:wght@400;500;600&family=Roboto&family=Titillium+Web:wght@400;600&display=swap');
 
 body {
   max-width: 75%;
@@ -6,13 +6,39 @@ body {
   font-family: 'Roboto';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  }
-  
-  code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-      monospace;
-  }
-  
+  background: rgb(13,1,27);
+  background: linear-gradient(24deg, rgba(13,1,27,1) 0%, rgba(0,29,24,1) 73%) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+a{
+  color: rgb(216,183,252, 0.6) !important;
+}
+a:hover{
+  text-decoration: none;
+  transition: 0.35s ease;
+  color: rgb(216,183,252, 0.4) !important;
+}
+a:active, a:focus, .MuiButton-root{
+  border:none !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container-fluid{
+padding:0 !important;
+}
+
+#app{
+  background-color: rgba(0,0,0, 20%) ;
+}
+
 .MuiCard-root{
   margin:10px;
   display: inline-block;
@@ -21,41 +47,454 @@ body {
 }
 
 .card-title{
-  font-family: 'Montserrat';
-  font-weight: 700;
-  font-size: 18px;
+  font-family: 'Titillium Web';
+  font-weight: 600;
+  font-size: 1.7em;
   text-transform: uppercase;
   max-width:328px;
+  color:#880E4F;
 }
 
 .closeIcon {
     position: absolute !important;
     right: 5px;
     top: 5px;
-  }
+ }
 
-  .MuiButton-sizeLarge{
-    font-family: 'Roboto' !important;
-    width: 100%;
-    margin-bottom: 10px !important;
-    font-size: 1.25rem !important;
-  }
+.sidebar{
+  margin-top:8px;
+  margin-left:25px;
+  margin-right:35px;
+}
 
-  .MuiButton-sizeLarge.MuiButton-root{
-    text-transform: none !important;
+.sidebar-button{
+  font-family: 'Montserrat' !important;
+  width: 100%;
+  margin-bottom: 15px !important;
+  font-size: 500 !important;
+}
+.sidebar-button-small{
+  font-family: 'Montserrat' !important;
+  margin-bottom: 15px !important;
+  font-size: 500 !important;
+}
+.sidebar-button-small .left{
+  float:left;
+  width:47%;
+  margin-right:10px;
+  margin-bottom: 15px !important;
+}
+.sidebar-button-small .right{
+  float:right;
+  width:47%;
+  margin-right:0;
+  margin-bottom: 15px !important;
+}
+
+.MuiGrid-spacing-xs-5 > .MuiGrid-item {
+  padding: 0px !important;
+}
+
+.MuiButton-sizeLarge.MuiButton-root{
+  font-family: 'Roboto' !important;
+  font-size:1.3em;
   color: rgba(256,256,256, 0.5);
+  background: none;
+}
+
+.MuiButton-sizeLarge.MuiButton-root:hover{
+  box-shadow:
+  -1px 0 5px rgb(	255, 0, 255, .3),
+  1px 0 5px rgb(	0, 255, 255, .3);
 }
 
 .MuiButton-outlinedPrimary{
   font-size: 0.75rem !important;
 }
 
-.jumbotron{
-  font-family: 'Montserrat';
-  background: #880E4F;
-  color: rgba(256, 256, 256, 0.5);
-}
-
 .MuiPaper-root{
   color: #880E4F !important;
 }
+
+.pedigreetable{
+  margin:20px auto;
+  width: 90%;
+}
+
+.pedigree-hide{
+  display:none;
+}
+
+td.PedigreeLink {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+  margin: 0;
+  padding: 4px 0;
+  text-align: left;
+  text-decoration: none;
+  vertical-align: middle;
+  border-top: solid lightslategrey 1px;
+  border-bottom: solid lightslategrey 1px;
+  border-left: none;
+  border-right: none;
+  line-height: 100%;
+}
+td.PedigreeLink.one-top {
+  border-top: solid rgb(	255, 0, 255, .2) 1px;
+}
+td.PedigreeLink.one-bottom {
+  border-bottom: solid rgb(	255, 0, 255, .2) 1px;
+}
+td.PedigreeLink.two-top {
+  border-top: solid rgb(	0, 255, 255, .2);
+}
+td.PedigreeLink.two-bottom {
+  border-bottom: solid rgb(	0, 255, 255, .2);
+}
+td.PedigreeLink.three-bottom {
+  border-bottom: solid rgb(	255, 0, 255, .4) 1px;
+}
+td.PedigreeLink.four-bottom {
+  border-bottom: solid   rgb(	0, 255, 255, .4);
+}
+
+.modal-bg{
+  background: rgb(36,3,77);
+  background: linear-gradient(24deg, rgba(36,3,77,0.5) 0%, rgba(0,69,57,0.5) 100%);
+}
+
+.MuiButton-containedPrimary{
+  background: rgb(36,3,77) !important;
+  background: linear-gradient(24deg, rgba(36,3,77,.3) 0%, rgba(0,69,57,.3) 100%) !important;
+  color:rgb(256,256,256, .5) !important;
+}
+
+.MuiButton-containedPrimary:hover, .MuiButton-containedPrimary:active{
+  background-color: #0d011b !important;
+  color:rgb(256,256,256, .6) !important;
+}
+
+.MuiPaper-rounded {
+  border-radius: 10px !important;
+  border: 3px solid #0d011b !important;
+  background-color: rgb(0,0,0,.75) !important;
+  color:rgb(256,256,256, .5) !important;
+}
+.MuiPaper-rounded:hover{
+  border: 3px solid rgb(255, 255, 255, .95) !important;
+  transition: .25s linear;
+}
+.MuiPaper-rounded.MuiDialog-paper:hover{
+  border: 3px solid #0d011b !important;
+}
+
+.MuiPaper-elevation24 {
+  box-shadow: 0px 11px 15px -7px rgba(0,0,0,0.2), 0px 24px 38px 3px rgba(0,0,0,0.15), 0px 9px 46px 8px rgba(0,0,0,.5) !important
+}
+
+.MuiTouchRipple-root:focus{
+border:none !important;
+}
+
+.MuiCard-root{
+  background: rgb(0,0,0, .3) !important;
+}
+
+.info-modal{
+  color: rgb(216,183,252, 0.6) !important;
+}
+.info-modal:hover{
+  transition: 0.35s ease;
+  color: rgb(216,183,252, 0.4) !important;
+} 
+
+button:active, button:focus{
+  border: none !important;
+  outline: none !important;
+}
+
+.breeding-info{
+  font-size: 20px;
+  border-bottom: 2px solid rgb(136,14,79, .5);
+  text-align: center;
+  width:70%;
+  margin-bottom: 10px;
+}
+
+.performance-info{
+  font-size: 20px;
+  border-bottom: 2px solid rgb(136,14,79, .5);
+  text-align: center;
+  width:70%;
+  margin-bottom: 10px;
+}
+
+.progeny{
+  font-size: 20px;
+  border-bottom: 2px solid rgb(136,14,79, .5);
+  text-align: center;
+  width:70%;
+  margin-bottom: 10px;
+}
+
+.progeny-name{
+  color:rgb(	0, 255, 255, .3) !important;
+}
+
+.modal-close .MuiButton-label{
+  margin: 0 auto;
+  padding: 5px 50px;
+  background: rgb(	0, 255, 255, .05);
+  color: rgb(255, 255, 255, .5) !important;
+}
+.modal-close:hover{
+  background: rgb(	0, 255, 255, 1);
+  color: rgb(255, 255, 255, .7) !important;
+}
+
+/*----------------------------------- Card glow affect -------------------------------------------------- */
+.containerOuter{
+  display: inline-block;
+  max-width:400px;
+  min-width:350px;
+  transition: 1s ease !important;
+}
+
+.containerOuter .card .face{
+  background: black;
+  transition:.4s;
+}
+
+.containerOuter .card:hover .face.face1{
+  box-shadow:
+  inset 0 0 999px rgb(0, 0, 0, 1),
+  inset 20px 0 80px rgb(	255, 0, 255, 1),
+  inset -20px 0 80px #0ff,
+  inset 20px 0 300px rgb(	255, 0, 255, 1),
+  inset -20px 0 300px #0ff,
+  0 0 15px rgb(255, 255, 255, 1),
+  -5px 0 15px rgb(	255, 0, 255, 1),
+  5px 0 15px #0ff;
+  transition:1s;
+  }
+  /*----------------------------------- End card glow affect -------------------------------------------------- */
+
+.card{
+  border: none !important;
+}
+
+.jumbotron1{
+  font-family: 'Montserrat';
+  background: none;
+  color: rgba(256, 256, 256, 0.5);
+  padding: 40px 0 0 0 !important;
+}
+.jumbotron1 h1{
+text-transform:uppercase;
+color:white;
+font-family: 'Dosis';
+font-size:6em;
+text-align:center;
+animation: neonGlow 2s infinite alternate cubic-bezier(0.455, 0.030, 0.515, 0.955);
+}
+
+@keyframes neonGlow {
+0% {
+  text-shadow: 0 0 10px rgba(255,255,255,.8),
+               0 0 20px rgba(255,255,255,.8),
+               0 0 22px  rgba(255,255,255,.8),
+               0 0 40px  rgba(66,220,219,.8),
+               0 0 60px  rgba(66,220,219,.8),
+               0 0 80px  rgba(66,220,219,.5),
+               0 0 100px rgba(66,220,219,.5),
+               0 0 140px rgba(66,220,219,.5),
+               0 0 200px rgba(66,220,219,.5);
+}
+100% {
+  text-shadow: 0 0 2px rgba(255,255,255,.8),
+               0 0 8px rgba(255,255,255,.8),
+               0 0 10px rgba(255,255,255,.8),
+               0 0 20px rgba(66,220,219,.8),
+               0 0 30px rgba(66,220,219,.8),
+               0 0 40px rgba(66,220,219,.8),
+               0 0 50px rgba(66,220,219,.5),
+               0 0 80px rgba(66,220,219,.5);
+}
+}
+
+/*----------------------------------- Banner outrun grid -------------------------------------------------- */
+.sky {
+  position: relative;
+  display: flex;
+  overflow: hidden;
+}
+
+.homegrid {
+  box-shadow:
+  0 0 15px rgb(0, 0, 0, 1),
+  0px 0 45px rgb(0, 0, 0, 1),
+  0px 0 55px #000;
+  margin-bottom:70px;
+}
+
+.horizon {
+  position: relative;
+  width: 100%;
+  height: 8px;
+  margin-bottom: -8px;
+  z-index: 1;
+}
+
+.horizon:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 8px;
+  background: linear-gradient( to right, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.7) 20%, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.7) 80%, rgba(255, 255, 255, 0.2) );
+  box-shadow: 0 -8px 30px rgba(255, 0, 214, 0.7), 0 -4px 10px rgba(255, 255, 255, 0.8);
+}
+
+.deck {
+  position: relative;
+  height: 20vh;
+  overflow: hidden;
+}
+
+.deck:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 200%;
+  width: 100%;
+  background: radial-gradient(transparent 50%, rgb(0, 0, 0, .7) 70%); /* IMPORTANT */
+}
+
+.plane {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  bottom: 0px;
+  perspective: 116px;
+}
+
+.plane:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 40%;
+  background: linear-gradient( to bottom, rgba(255, 0, 214, 0.7) 5%, rgba(255, 0, 214, 0.4) 25%, transparent );
+}
+
+.gridgrid {
+  position: absolute;
+  top: -6vh;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  transform: rotateX(30deg); /* IMPORTANT */
+}
+
+.vertical .line {
+  top: -10vh;
+  bottom: -4vh;
+  width: 12px;
+  background: linear-gradient( to left, transparent, rgba(255, 0, 214, 0.2), rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.3), rgba(255, 0, 214, 0.2), transparent );
+}
+
+.vertical .line:nth-child(1) {
+  left: 10%;
+}
+.vertical .line:nth-child(2) {
+  left: 20%;
+}
+.vertical .line:nth-child(3) {
+  left: 30%;
+}
+.vertical .line:nth-child(4) {
+  left: 40%;
+}
+.vertical .line:nth-child(5) {
+  left: 50%;
+}
+.vertical .line:nth-child(6) {
+  left: 60%;
+}
+.vertical .line:nth-child(7) {
+  left: 70%;
+}
+.vertical .line:nth-child(8) {
+  left: 80%;
+}
+.vertical .line:nth-child(9) {
+  left: 90%;
+}
+.vertical .line:nth-child(10) {
+  left: 100%;
+  margin-left: -1px;
+}
+
+.gridgrid .line {
+  position: absolute;
+}
+
+.horizontal .line {
+  left: 0;
+  right: 0;
+  height: 6px;
+  z-index: 2;
+  background: linear-gradient( to bottom, transparent, rgba(255, 0, 214, 0.2) 40%, rgba(255, 255, 255, 0.8) 60%, rgba(255, 0, 214, 0.2), transparent );
+}
+
+.horizontal .line:nth-child(1) {
+  top: 10%;
+  opacity: 0.2;
+}
+
+.horizontal .line:nth-child(2) {
+  top: 20%;
+  opacity: 0.3;
+}
+.horizontal .line:nth-child(3) {
+  top: 30%;
+  opacity: 0.4;
+}
+.horizontal .line:nth-child(4) {
+  top: 40%;
+  opacity: 0.5;
+}
+.horizontal .line:nth-child(5) {
+  top: 50%;
+  opacity: 0.6;
+}
+.horizontal .line:nth-child(6) {
+  top: 60%;
+  opacity: 0.7;
+}
+.horizontal .line:nth-child(7) {
+  top: 70%;
+  opacity: 0.8;
+}
+.horizontal .line:nth-child(8) {
+  top: 80%;
+  opacity: 0.9;
+}
+.horizontal .line:nth-child(9) {
+  top: 90%;
+  opacity: 0.95;
+}
+.horizontal .line:nth-child(10) {
+  top: 100%;
+  opacity: 1;
+  margin-top: -1px;
+}
+/*----------------------------------- End Banner outrun grid -------------------------------------------------- */
