@@ -11,7 +11,7 @@ class HorseGrid extends Component {
     
     render() {
         return (
-          <Grid container spacing={1} direction="row" justify="space-around" alignItems="baseline"
+          <Grid className="grid-view" container spacing={1} direction="row" justify="space-around" alignItems="baseline"
             style={{flexGrow: "1"}}>
               <HorseCard filter={this.props.filter} />
           </Grid>

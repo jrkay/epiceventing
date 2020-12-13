@@ -12,6 +12,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  min-width: 600px;
 }
 
 a{
@@ -61,55 +62,8 @@ padding:0 !important;
     top: 5px;
  }
 
-.sidebar{
-  margin-top:8px;
-  margin-left:25px;
-  margin-right:35px;
-}
-
-.sidebar-button{
-  font-family: 'Montserrat' !important;
-  width: 100%;
-  margin-bottom: 15px !important;
-  font-size: 500 !important;
-}
-.sidebar-button-small{
-  font-family: 'Montserrat' !important;
-  margin-bottom: 15px !important;
-  font-size: 500 !important;
-}
-.sidebar-button-small .left{
-  float:left;
-  width:47%;
-  margin-right:10px;
-  margin-bottom: 15px !important;
-}
-.sidebar-button-small .right{
-  float:right;
-  width:47%;
-  margin-right:0;
-  margin-bottom: 15px !important;
-}
-
 .MuiGrid-spacing-xs-5 > .MuiGrid-item {
   padding: 0px !important;
-}
-
-.MuiButton-sizeLarge.MuiButton-root{
-  font-family: 'Roboto' !important;
-  font-size:1.3em;
-  color: rgba(256,256,256, 0.5);
-  background: none;
-}
-
-.MuiButton-sizeLarge.MuiButton-root:hover{
-  box-shadow:
-  -1px 0 5px rgb(	255, 0, 255, .3),
-  1px 0 5px rgb(	0, 255, 255, .3);
-}
-
-.MuiButton-outlinedPrimary{
-  font-size: 0.75rem !important;
 }
 
 .MuiPaper-root{
@@ -165,6 +119,59 @@ td.PedigreeLink.four-bottom {
   background: linear-gradient(24deg, rgba(36,3,77,0.5) 0%, rgba(0,69,57,0.5) 100%);
 }
 
+.grid-view{
+
+}
+/*----------------------------------- Sidebar buttons -------------------------------------------------- */
+.sidebar{
+  margin-top:8px;
+  margin-left:25px;
+  margin-right:35px;
+  min-width: 170px;
+  width:auto;
+}
+
+.sidebar-button{
+  font-family: 'Montserrat' !important;
+  width: 100%;
+  margin-bottom: 15px !important;
+  font-size: 500 !important;
+}
+.sidebar-button-small{
+  font-family: 'Montserrat' !important;
+  margin-bottom: 15px !important;
+  font-size: 500 !important;
+}
+.sidebar-button-small .left{
+  float:left;
+  width:47%;
+  margin-right:10px;
+  margin-bottom: 15px !important;
+}
+.sidebar-button-small .right{
+  float:right;
+  width:47%;
+  margin-right:0;
+  margin-bottom: 15px !important;
+}
+
+.MuiButton-sizeLarge.MuiButton-root{
+  font-family: 'Roboto' !important;
+  font-size:1.3em;
+  color: rgba(256,256,256, 0.5);
+  background: none;
+}
+
+.MuiButton-sizeLarge.MuiButton-root:hover{
+  box-shadow:
+  -1px 0 5px rgb(	255, 0, 255, .3),
+  1px 0 5px rgb(	0, 255, 255, .3);
+}
+
+.MuiButton-outlinedPrimary{
+  font-size: 0.75rem !important;
+}
+
 .MuiButton-containedPrimary{
   background: rgb(36,3,77) !important;
   background: linear-gradient(24deg, rgba(36,3,77,.3) 0%, rgba(0,69,57,.3) 100%) !important;
@@ -175,6 +182,7 @@ td.PedigreeLink.four-bottom {
   background-color: #0d011b !important;
   color:rgb(256,256,256, .6) !important;
 }
+/*----------------------------------- End sidebar buttons -------------------------------------------------- */
 
 .MuiPaper-rounded {
   border-radius: 10px !important;

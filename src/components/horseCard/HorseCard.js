@@ -87,7 +87,7 @@ class HorseBox extends Component {
                                     className='modal-bg'
                                 >
                                     <MuiDialogTitle>
-                                        <div className="card-title">{horse.name}</div>
+                                        <div className="card-title" style={{display: "inline"}}>{horse.name}</div>
                                         <IconButton aria-label="close" className="closeIcon" onClick={this.closeModal}>
                                             <CloseIcon className="info-modal"/>
                                         </IconButton>
@@ -112,10 +112,10 @@ class HorseBox extends Component {
                                                             : <em>{(new Date().getFullYear())} Brood Fee: {horse.fee} / year</em>}
                                                         </span>
                                                 }</p>
-                                                <div className="progeny">Progeny</div>
+                                                <div className="progeny">Progeny <span style={{color: "#444"}}>{horse.progeny.length != 0 ? "(" + horse.progeny.length +")" : <></>}</span></div>
                                                 { horse.progeny.length != 0  ? 
                                                     <div>
-                                                        <p><a href={horse.foalRecord} target='_newWindow'>Foal Record</a></p>
+                                                        <p><a href={"http://www.hfshc.com/IDHorse/search.php?search=y&IDHORSE_" + (horse.gender === "Stallion" ? "Sire=" : "Dam=") + horse.name + "&IDHORSE_" + (horse.gender === "Stallion" ? "Sire" : "Dam") + "_OPT==&formattype=long&sortby=IDHORSE_Year_Born"} target='_newWindow'>Foal Record</a></p>
                                                         { horse.progeny.sort((a, b) => a.age - b.age).map(function (progeny, i) { 
                                                             return (
                                                                 <div key={i}>
@@ -134,7 +134,7 @@ class HorseBox extends Component {
                                         <Grid item xs={6}>
                                             <div>
                                                 <div className="performance-info">Performance Information</div>
-                                                <p><a href={horse.showRecord} target='_newWindow'>Show Record</a></p>
+                                                <p><a href={"http://www.hfshc.com/ShowDB/hfshowrecords.php?id=" +  horse.id.toString().padStart(5, "0") + "&name=" + horse.name} target='_newWindow'>Show Record</a></p>
                                             </div>
                                         </Grid>
                                     </Grid>
