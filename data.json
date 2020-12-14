@@ -15,7 +15,7 @@
         "dam": "IMA Eternally Yours",
         "damId": 13371,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -34,7 +34,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -53,7 +53,7 @@
         "dam": "Glossy Finish",
         "damId": 4337,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -91,7 +91,7 @@
         "dam": "Winter Velvet (SHS)",
         "damId": 21443,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
           {
             "name": "France",
@@ -100,7 +100,7 @@
             "color": "Chestnut",
             "gender": "Mare",
             "parent": "Yoshiki (SHS)",
-            "title": ""
+            "title": "Ch"
           }
         ]
       },
@@ -119,8 +119,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Merens",
+            "breed": "Swiss Warmblood",
+            "age": "2005",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Meeko",
+            "title": ""
+          }
         ]
       },
       {
@@ -138,7 +147,7 @@
         "dam": "Anusia",
         "damId": 34798,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -151,13 +160,13 @@
         "year": "2007",
         "color": "Chestnut",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Jumper",
         "sire": "Aegean",
         "sireId": 25329, 
         "dam": "Relaxation",
         "damId": 34212,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -170,13 +179,13 @@
         "year": "2007",
         "color": "Bay",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Eventer",
         "sire": "Askersund (SHS)",
         "sireId": 22182, 
         "dam": "Stillframe (SHS)",
         "damId": 22969,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -195,8 +204,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Erco",
+            "breed": "Swiss Warmblood",
+            "age": "2011",
+            "color": "Black",
+            "gender": "Stallion",
+            "parent": "Escaping Insomnia",
+            "title": "Ch"
+          }
         ]
       },
       {
@@ -214,7 +232,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -233,7 +251,7 @@
         "dam": "VC Isabella",
         "damId": 23856,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -252,7 +270,7 @@
         "dam": "Waterwild",
         "damId": 20907,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -271,8 +289,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Alisa",
+            "breed": "Orlov-Rostopchin",
+            "age": "2005",
+            "color": "Black",
+            "gender": "Mare",
+            "parent": "Beethoven",
+            "title": "NC"
+          }
         ]
       },
       {
@@ -284,13 +311,13 @@
         "year": "2008",
         "color": "Blue Roan Minimally Expressed Overo",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Reining",
         "sire": "Moonshine Lullaby",
         "sireId": 15293, 
         "dam": "Moon Light (SHS)",
         "damId": 5238,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -309,7 +336,7 @@
         "dam": "Gracieuse",
         "damId": 43827,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -318,18 +345,145 @@
         "id": 25440,
         "pic": "",
         "breed": "Westphalian",
-        "category": "Warmblood Stud",
+        "category": "Warmblood Special",
+        "special": "2018 WEG Team Show Jumping - Bronze<br />$48,000 in winnings",
         "year": "2001",
         "color": "Grey (Bay)",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Jumper",
         "sire": "Assyria (SHS)",
         "sireId": 20858, 
         "dam": "Stillframe (SHS)",
         "damId": 22969,
-        "available": true,
-        "fee": "$5,000",
+        "available": false,
+        "fee": "$150,000",
         "progeny": [
+          {
+            "name": "Artiq",
+            "breed": "Westphalian",
+            "age": "2005",
+            "color": "Grey",
+            "gender": "Stallion",
+            "parent": "She's-A-Winner (SHS)",
+            "title": "CC"
+          },
+          {
+            "name": "Azeroth",
+            "breed": "Westphalian",
+            "age": "2005",
+            "color": "Grey",
+            "gender": "Stallion",
+            "parent": "Sundial",
+            "title": "WC"
+          },
+          {
+            "name": "Asinius",
+            "breed": "Hanoverian",
+            "age": "2006",
+            "color": "Grey",
+            "gender": "Stallion",
+            "parent": "Sunniva",
+            "title": "HoF"
+          },
+          {
+            "name": "Amazing",
+            "breed": "Westphalian",
+            "age": "2007",
+            "color": "Grey",
+            "gender": "Mare",
+            "parent": "Rihanna",
+            "title": "IHoF"
+          },
+          {
+            "name": "Ansel",
+            "breed": "Rheinlander",
+            "age": "2007",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Foutour teh Ma'am",
+            "title": "CH"
+          },
+          {
+            "name": "Artesia",
+            "breed": "Westphalian",
+            "age": "2007",
+            "color": "Chestnut",
+            "gender": "Mare",
+            "parent": "Ganesha",
+            "title": "CC"
+          },
+          {
+            "name": "Canary",
+            "breed": "Dutch Warmblood",
+            "age": "2007",
+            "color": "Bay",
+            "gender": "Mare",
+            "parent": "Swallowtail's Key (SHS)",
+            "title": ""
+          },
+          {
+            "name": "Tiare",
+            "breed": "Selle Francais",
+            "age": "2007",
+            "color": "Grey",
+            "gender": "Mare",
+            "parent": "Ondee",
+            "title": "HoF"
+          },
+          {
+            "name": "Antilles",
+            "breed": "Hanoverian",
+            "age": "2007",
+            "color": "Grey",
+            "gender": "Stallion",
+            "parent": "Alderaan",
+            "title": "CH"
+          },
+          {
+            "name": "Alouette",
+            "breed": "Hanoverian",
+            "age": "2007",
+            "color": "Grey",
+            "gender": "Mare",
+            "parent": "Bellissa",
+            "title": "GC"
+          },
+          {
+            "name": "Averti",
+            "breed": "Westphalian",
+            "age": "2007",
+            "color": "Chestnut",
+            "gender": "Stallion",
+            "parent": "Destiny Ruling",
+            "title": "HoF"
+          },
+          {
+            "name": "Frostwork",
+            "breed": "Knabstrupper",
+            "age": "2008",
+            "color": "Bay Leopard",
+            "gender": "Stallion",
+            "parent": "Gunnr",
+            "title": "CC"
+          },
+          {
+            "name": "Allman",
+            "breed": "Westphalian",
+            "age": "2011",
+            "color": "Chestnut",
+            "gender": "Stallion",
+            "parent": "Wasabi",
+            "title": ""
+          },
+          {
+            "name": "Adylan",
+            "breed": "Westphalian",
+            "age": "2012",
+            "color": "Bay",
+            "gender": "Mare",
+            "parent": "Melisande",
+            "title": "WC"
+          }
         ]
       },
       {
@@ -341,14 +495,23 @@
         "year": "2003",
         "color": "Grey (Bay)",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Jumper",
         "sire": "Askersund (SHS)",
         "sireId": 22182, 
         "dam": "Maid Miriam (SHS)",
         "damId": 826,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Midnight City",
+            "breed": "Swedish Warmblood",
+            "age": "2010",
+            "color": "Black",
+            "gender": "Mare",
+            "parent": "Props & Mayhem (SHS)",
+            "title": ""
+          }
         ]
       },
       {
@@ -366,7 +529,7 @@
         "dam": "Bugatti",
         "damId": 32065,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -379,14 +542,23 @@
         "year": "1998",
         "color": "Bay",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Jumper",
         "sire": "Assyria (SHS)",
         "sireId": 20858, 
         "dam": "Rosemarie (SHS)",
         "damId": 12298,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Konvict",
+            "breed": "Westphalian",
+            "age": "2004",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Kostlich (SHS)",
+            "title": "WC"
+          }
         ]
       },
       {
@@ -404,7 +576,7 @@
         "dam": "Catcall",
         "damId": 26561,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -423,8 +595,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Ambrosia",
+            "breed": "Swedish Warmblood",
+            "age": "2012",
+            "color": "Chestnut",
+            "gender": "Mare",
+            "parent": "Apollo (SHS)",
+            "title": ""
+          }
         ]
       },
       {
@@ -442,7 +623,7 @@
         "dam": "Rooftops",
         "damId": 35836,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -461,7 +642,7 @@
         "dam": "Accolades",
         "damId": 36205,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -474,14 +655,23 @@
         "year": "2008",
         "color": "Bay",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Hunter",
         "sire": "Brego (SHS)",
         "sireId": 21852, 
         "dam": "Adieu (SHS)",
         "damId": 26153,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Vespa",
+            "breed": "Hanoverian",
+            "age": "2013",
+            "color": "Bay",
+            "gender": "Mare",
+            "parent": "Vauxhall",
+            "title": "CC"
+          }
         ]
       },
       {
@@ -493,14 +683,32 @@
         "year": "2008",
         "color": "Chestnut",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Jumper",
         "sire": "Brink of War (SHS)",
         "sireId": 1545, 
         "dam": "Dashing Ovation (SHS)",
         "damId": 5000,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$15,000",
         "progeny": [
+          {
+            "name": "Bluejay",
+            "breed": "Hanoverian",
+            "age": "2012",
+            "color": "Bay",
+            "gender": "Mare",
+            "parent": "Grenada",
+            "title": "GC"
+          },
+          {
+            "name": "Barrage",
+            "breed": "Hanoverian",
+            "age": "2013",
+            "color": "Black",
+            "gender": "Stallion",
+            "parent": "Accolades",
+            "title": "NC"
+          }
         ]
       },
       {
@@ -518,7 +726,7 @@
         "dam": "Waltzing Belle",
         "damId": 27400,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -537,7 +745,7 @@
         "dam": "Toinette",
         "damId": 39236,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -546,18 +754,37 @@
         "id": 36690,
         "pic": "",
         "breed": "Belgian Warmblood",
-        "category": "Warmblood Stud",
+        "category": "Warmblood Stud Special",
+        "special": "2016 Olympic Games Team Eventing - Gold<br />$37,500 in winnings",
         "year": "2001",
         "color": "Chestnut",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Eventer",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$25,000",
         "progeny": [
+          {
+            "name": "Hawthorn",
+            "breed": "Belgian Warmblood",
+            "age": "2007",
+            "color": "Bay",
+            "gender": "Mare",
+            "parent": "Bronte",
+            "title": "NC"
+          },
+          {
+            "name": "Pinewood",
+            "breed": "Belgian Warmblood",
+            "age": "2015",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Launch Code",
+            "title": ""
+          }
         ]
       },
       {
@@ -575,7 +802,7 @@
         "dam": "Grenada",
         "damId": 26062,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -611,7 +838,7 @@
         "dam": "Viktoriya",
         "damId": 34643,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -624,14 +851,23 @@
         "year": "2001",
         "color": "Bay",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Eventer",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Jette",
+            "breed": "Belgian Warmblood",
+            "age": "2009",
+            "color": "Chestnut",
+            "gender": "Mare",
+            "parent": "Flambeaux",
+            "title": "GC"
+          }
         ]
       },
       {
@@ -649,7 +885,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -668,7 +904,7 @@
         "dam": "Opale",
         "damId": 38980,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -681,14 +917,23 @@
         "year": "2001",
         "color": "Bay",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Jumper",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
+          {
+            "name": "Castamere",
+            "breed": "Westphalian",
+            "age": "2010",
+            "color": "Bay",
+            "gender": "Gelding",
+            "parent": "Sea Maiden",
+            "title": "GC"
+          }
         ]
       },
       {
@@ -706,7 +951,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -725,7 +970,7 @@
         "dam": "Where Rainbows End",
         "damId": 22801,        
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -744,7 +989,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -763,7 +1008,7 @@
         "dam": "O'Hara",
         "damId": 6761,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -782,7 +1027,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -801,7 +1046,7 @@
         "dam": "Vanuatu",
         "damId": 29032,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -820,7 +1065,7 @@
         "dam": "Faust Flyer (SHS)",
         "damId": 16736,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -839,7 +1084,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -858,7 +1103,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -877,7 +1122,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -907,13 +1152,13 @@
         "year": "2009",
         "color": "Grey (Bay)",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Hunter",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -932,7 +1177,7 @@
         "dam": "Edeline",
         "damId": 34547,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -951,7 +1196,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -970,7 +1215,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -989,7 +1234,7 @@
         "dam": "Faust Flyer (SHS)",
         "damId": 16736,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -1002,13 +1247,13 @@
         "year": "2010",
         "color": "Grey (Bay)",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Jumper",
         "sire": "Danube",
         "sireId": 30976, 
         "dam": "Chapel",
         "damId": 31020,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1027,8 +1272,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
+          {
+            "name": "Dot Matrix",
+            "breed": "Rheinlander",
+            "age": "2013",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Faust Flyer (SHS)",
+            "title": "GC"
+          }
         ]
       },
       {
@@ -1046,7 +1300,7 @@
         "dam": "Light of Elendil (SHS)",
         "damId": 17893,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1065,7 +1319,7 @@
         "dam": "Devonia",
         "damId": 34368,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1074,17 +1328,18 @@
         "id": 27585,
         "pic": "",
         "breed": "Hanoverian",
-        "category": "Warmblood Stud",
+        "category": "Warmblood Stud Special",
+        "special": "2018 WEG Team Show Jumping - Bronze<br />$77,000 in winnings",
         "year": "1999",
         "color": "Bay",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Jumper",
         "sire": "Dark Alternative (SHS)",
         "sireId": 6777, 
         "dam": "Gunblade (SHS)",
         "damId": 27191,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$25,000",
         "progeny": [
           {
             "name": "Drifa",
@@ -1093,7 +1348,7 @@
             "color": "Bay",
             "gender": "Mare",
             "parent": "Devonia",
-            "title": ""
+            "title": "GC"
           },
           {
             "name": "Derezzed",
@@ -1102,7 +1357,7 @@
             "color": "Bay",
             "gender": "Mare",
             "parent": "Casualty",
-            "title": ""
+            "title": "IHoF"
           }
         ]
       },
@@ -1121,8 +1376,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Ten Gallon",
+            "breed": "Quarter Horse",
+            "age": "2017",
+            "color": "Bay",
+            "gender": "Grullo Roan",
+            "parent": "Stetson",
+            "title": ""
+          }
         ]
       },
       {
@@ -1140,7 +1404,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1159,8 +1423,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
+          {
+            "name": "Einbeck",
+            "breed": "Brandenburg",
+            "age": "2016",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Niniek",
+            "title": ""
+          }
         ]
       },
       {
@@ -1178,8 +1451,17 @@
         "dam": "Zinnia",
         "damId": 33700,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Meowth",
+            "breed": "Dutch Warmblood",
+            "age": "2017",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Fraggle Rock",
+            "title": ""
+          }
         ]
       },
       {
@@ -1197,7 +1479,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1216,7 +1498,7 @@
         "dam": "Niniek",
         "damId": 36413,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -1235,7 +1517,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -1254,7 +1536,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1273,7 +1555,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -1292,7 +1574,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1311,7 +1593,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -1330,7 +1612,7 @@
         "dam": "Yalta",
         "damId": 34951,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1349,7 +1631,7 @@
         "dam": "Wintersleep",
         "damId": 30873,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1358,17 +1640,81 @@
         "id": 16736,
         "pic": "",
         "breed": "Westphalian",
-        "category": "Warmblood",
+        "category": "Warmblood Special",
+        "special": "",
         "year": "1993",
         "color": "Chestnut",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Hunter",
         "sire": "Fly So High",
         "sireId": 9829, 
         "dam": "My Own Summer",
         "damId": 16688,
         "available": false,
         "progeny": [
+          {
+            "name": "Tyrannical",
+            "breed": "Westphalian",
+            "age": "1996",
+            "color": "Bay",
+            "gender": "Gelding",
+            "parent": "Demetrius Ruling",
+            "title": "HoF"
+          },
+          {
+            "name": "Changing Times",
+            "breed": "Hanoverian",
+            "age": "1997",
+            "color": "Chestnut",
+            "gender": "Mare",
+            "parent": "Classic Twist (SHS)",
+            "title": "CH"
+          },
+          {
+            "name": "Winter Kate",
+            "breed": "Holsteiner",
+            "age": "2006",
+            "color": "Bay",
+            "gender": "Mare",
+            "parent": "Cunningham (SHS)",
+            "title": "GC"
+          },
+          {
+            "name": "Mural",
+            "breed": "Westphalian",
+            "age": "2008",
+            "color": "Bay",
+            "gender": "Mare",
+            "parent": "Malkier (SHS)",
+            "title": "NC"
+          },
+          {
+            "name": "Grgich",
+            "breed": "Oldenburg",
+            "age": "2009",
+            "color": "Black Tobiano",
+            "gender": "Stallion",
+            "parent": "Gaston",
+            "title": "CH"
+          },
+          {
+            "name": "Cirein",
+            "breed": "Knabstrupper",
+            "age": "2010",
+            "color": "Chestnut Snowflake",
+            "gender": "Mare",
+            "parent": "Calder",
+            "title": "GC"
+          },
+          {
+            "name": "Dot Matrix",
+            "breed": "Rheinlander",
+            "age": "2013",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Draper",
+            "title": "GC"
+          }
         ]
       },
       {
@@ -1386,7 +1732,7 @@
         "dam": "Rikke",
         "damId": 37735,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1405,7 +1751,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1424,8 +1770,26 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Sinzig",
+            "breed": "Oldenburg",
+            "age": "2012",
+            "color": "Bay Tobiano",
+            "gender": "Stallion",
+            "parent": "Sahelien (SHS)",
+            "title": "CC"
+          },
+          {
+            "name": "Kittiwake",
+            "breed": "Oldenburg",
+            "age": "2013",
+            "color": "Grey",
+            "gender": "Mare",
+            "parent": "Kiosk",
+            "title": "NC"
+          }
         ]
       },
       {
@@ -1434,6 +1798,7 @@
         "pic": "",
         "breed": "Belgian Warmblood",
         "category": "Warmblood Brood",
+        "special": "2018 WEG Eventing<br />$10,000 in winnings",
         "year": "2005",
         "color": "Chestnut",
         "gender": "Mare",
@@ -1443,8 +1808,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Morrison",
+            "breed": "Belgian Warmblood",
+            "age": "2012",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Hendrix",
+            "title": "GC"
+          }
         ]
       },
       {
@@ -1462,7 +1836,7 @@
         "dam": "Halifax",
         "damId": 27916,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1481,7 +1855,7 @@
         "dam": "Classique Luck",
         "damId": 17933,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -1494,13 +1868,13 @@
         "year": "2011",
         "color": "Chestnut Overo",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Reining",
         "sire": "Fleet Zip",
         "sireId": 13178, 
         "dam": "Honkey Tonk Attitude",
         "damId": 3576,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -1513,13 +1887,13 @@
         "year": "2003",
         "color": "Chestnut",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Jumper",
         "sire": "Fienza (SHS)",
         "sireId": 197, 
         "dam": "Kompliance",
         "damId": 21836,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1538,8 +1912,17 @@
         "dam": "Repeating Moon",
         "damId": 33858,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
+          {
+            "name": "Meowth",
+            "breed": "Dutch Warmblood",
+            "age": "2017",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Eevee",
+            "title": ""
+          }
         ]
       },
       {
@@ -1557,8 +1940,17 @@
         "dam": "Gunnr",
         "damId": 34696,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
+          {
+            "name": "Kobenhavn",
+            "breed": "Knabstrupper",
+            "age": "2011",
+            "color": "Black Leopard",
+            "gender": "Stallion",
+            "parent": "Kvinneby",
+            "title": ""
+          }
         ]
       },
       {
@@ -1576,7 +1968,7 @@
         "dam": "Violin",
         "damId": 25549,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -1595,7 +1987,7 @@
         "dam": "Kurololi",
         "damId": 27155,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -1614,7 +2006,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -1633,7 +2025,7 @@
         "dam": "Yoshiko",
         "damId": 37732,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1652,8 +2044,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Argenterie",
+            "breed": "Percheron",
+            "age": "2019",
+            "color": "Black",
+            "gender": "Mare",
+            "parent": "Silver Sacrifice",
+            "title": ""
+          }
         ]
       },
       {
@@ -1671,8 +2072,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
+          {
+            "name": "Goldfeather",
+            "breed": "Danish Warmblood",
+            "age": "2016",
+            "color": "Bay",
+            "gender": "Mare",
+            "parent": "Yoshiko",
+            "title": ""
+          }
         ]
       },
       {
@@ -1690,7 +2100,7 @@
         "dam": "Diamond Butterfly",
         "damId": 20043,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -1703,14 +2113,23 @@
         "year": "2002",
         "color": "Bay",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Hunter",
         "sire": "Handsome",
         "sireId": 27502, 
         "dam": "Taken",
         "damId": 27296,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Florin",
+            "breed": "Swedish Warmblood",
+            "age": "2007",
+            "color": "Grey",
+            "gender": "Mare",
+            "parent": "Fortune 'n Fame (SHS)",
+            "title": "GC"
+          }
         ]
       },
       {
@@ -1728,7 +2147,7 @@
         "dam": "Downshift",
         "damId": 35617,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1747,7 +2166,7 @@
         "dam": "Flippen Her Top",
         "damId": 14144,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -1766,7 +2185,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1785,7 +2204,7 @@
         "dam": "Vanuatu",
         "damId": 29032,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -1798,14 +2217,23 @@
         "year": "2003",
         "color": "Bay",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Jumper",
         "sire": "Halston (SHS)",
         "sireId": 27508, 
         "dam": "Ornamental",
         "damId": 23350,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Written Afterwards",
+            "breed": "Westphalian",
+            "age": "2010",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Wendigo",
+            "title": "CC"
+          }
         ]
       },
       {
@@ -1817,14 +2245,23 @@
         "year": "2012",
         "color": "Buckskin",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Reining",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
+          {
+            "name": "One Sharp Second",
+            "breed": "Quarter Horse",
+            "age": "2017",
+            "color": "Champagne",
+            "gender": "Stallion",
+            "parent": "Sharp Turn",
+            "title": ""
+          }
         ]
       },
       {
@@ -1842,7 +2279,7 @@
         "dam": "Bronte",
         "damId": 35105,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1861,7 +2298,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -1880,8 +2317,26 @@
         "dam": "Valka",
         "damId": 36318,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$15,000",
         "progeny": [
+          {
+            "name": "Tusmorke",
+            "breed": "Knabstrupper",
+            "age": "2013",
+            "color": "Chestnut Leopard",
+            "gender": "Mare",
+            "parent": "Sunna",
+            "title": ""
+          },
+          {
+            "name": "Lymerick",
+            "breed": "Knabstrupper",
+            "age": "2014",
+            "color": "Chestnut Blanket",
+            "gender": "Mare",
+            "parent": "Shambala Princess LCF",
+            "title": "HoF"
+          }
         ]
       },
       {
@@ -1899,7 +2354,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1918,7 +2373,7 @@
         "dam": "Mission Bell",
         "damId": 30453,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -1937,7 +2392,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1956,7 +2411,7 @@
         "dam": "Cachet (SHS)",
         "damId": 23802,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1975,7 +2430,7 @@
         "dam": "Falling From Grace",
         "damId": 32344,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -1994,8 +2449,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Yoshiko",
+            "breed": "Danish Warmblood",
+            "age": "2011",
+            "color": "Chestnut",
+            "gender": "Mare",
+            "parent": "Yoshiki (SHS)",
+            "title": "GC"
+          }
         ]
       },
       {
@@ -2013,7 +2477,7 @@
         "dam": "Lemuria",
         "damId": 31740,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2032,7 +2496,7 @@
         "dam": "Briella",
         "damId": 36713,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2051,7 +2515,7 @@
         "dam": "Decorum",
         "damId": 34961,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -2070,7 +2534,7 @@
         "dam": "Authentic Touch of Class",
         "damId": 12365,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -2089,7 +2553,7 @@
         "dam": "Cachet (SHS)",
         "damId": 23802,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2108,7 +2572,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2127,7 +2591,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -2146,7 +2610,7 @@
         "dam": "Rabbit Hill",
         "damId": 37247,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2165,7 +2629,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2184,8 +2648,35 @@
         "dam": "Fare Windy (SHS)",
         "damId": 10404,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$15,000",
         "progeny": [
+          {
+            "name": "Kameric",
+            "breed": "Oldenburg",
+            "age": "2007",
+            "color": "Bay",
+            "gender": "Mare",
+            "parent": "Imagine Me",
+            "title": "GC"
+          },
+          {
+            "name": "Kieren",
+            "breed": "Oldenburg",
+            "age": "2009",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Hershey's Kiss (SHS)",
+            "title": ""
+          },
+          {
+            "name": "Kirra",
+            "breed": "Oldenburg",
+            "age": "2017",
+            "color": "Bay Tobiano",
+            "gender": "Mare",
+            "parent": "Rabbit Hill",
+            "title": ""
+          }
         ]
       },
       {
@@ -2203,7 +2694,7 @@
         "dam": "Flight",
         "damId": 36166,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2222,8 +2713,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Pinewood",
+            "breed": "Belgian Warmblood",
+            "age": "2015",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Birch",
+            "title": ""
+          }
         ]
       },
       {
@@ -2235,13 +2735,13 @@
         "year": "2008",
         "color": "Brown Dun",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Pony Hunter",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2254,13 +2754,13 @@
         "year": "2011",
         "color": "Grey (Bay)",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Reining",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2279,7 +2779,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2298,13 +2798,13 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
       {
         "name": "Maul",
-        "id": 10004388200,
+        "id": 43882,
         "pic": "",
         "breed": "Westphalian",
         "category": "Warmblood Stud",
@@ -2317,7 +2817,7 @@
         "dam": "Paperlace",
         "damId": 38302,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -2336,7 +2836,7 @@
         "dam": "Eevee",
         "damId": 37189,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -2355,7 +2855,7 @@
         "dam": "Derezzed",
         "damId": 31751,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2374,8 +2874,17 @@
         "dam": "Atlantic Dream",
         "damId": 30898,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Not Even Embers",
+            "breed": "Swedish Warmblood",
+            "age": "2016",
+            "color": "Black",
+            "gender": "Mare",
+            "parent": "Nightcall",
+            "title": ""
+          }
         ]
       },
       {
@@ -2387,14 +2896,32 @@
         "year": "2003",
         "color": "Grey (Bay)",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Hunter",
         "sire": "Montmartre (SHS)",
         "sireId": 21479, 
         "dam": "Siberia",
         "damId": 20221,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$15,000",
         "progeny": [
+          {
+            "name": "My Last Love",
+            "breed": "Westphalian",
+            "age": "2008",
+            "color": "Grey",
+            "gender": "Mare",
+            "parent": "When Love Hurts",
+            "title": "IHoF"
+          },
+          {
+            "name": "Montrachet",
+            "breed": "Westphalian",
+            "age": "2013",
+            "color": "Grey",
+            "gender": "Stallion",
+            "parent": "Gloxinia",
+            "title": ""
+          }
         ]
       },
       {
@@ -2412,8 +2939,17 @@
         "dam": "Vanish",
         "damId": 37183,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
+          {
+            "name": "Maul",
+            "breed": "Westphalian",
+            "age": "2017",
+            "color": "Chestnut",
+            "gender": "Stallion",
+            "parent": "Paperlace",
+            "title": ""
+          }
         ]
       },
       {
@@ -2423,16 +2959,24 @@
         "breed": "Paint",
         "category": "Stock Brood",
         "year": "2007",
-        "color": "Buckskin TObiano",
+        "color": "Buckskin Tobiano",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Reining",
         "sire": "Mission: Make Me Famous",
         "sireId": 11164, 
         "dam": "Southern Daisy (SHS)",
         "damId": 6844,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Hy Lights",
+            "age": "2017",
+            "color": "Buckskin Tobiano",
+            "gender": "Stallion",
+            "parent": "Hy Percentage",
+            "title": ""
+          }
         ]
       },
       {
@@ -2450,7 +2994,7 @@
         "dam": "Flippant",
         "damId": 37297,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -2459,18 +3003,28 @@
         "id": 35488,
         "pic": "",
         "breed": "Swedish Warmblood",
-        "category": "Warmblood Stud",
+        "category": "Warmblood Stud Special",
+        "special": "2016 Olympic Games Individual Eventing<br />$8,000 in winnings",
         "year": "2003",
         "color": "Bay",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Jumper",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$25,000",
         "progeny": [
+          {
+            "name": "Not Even Embers",
+            "breed": "Swedish Warmblood",
+            "age": "2016",
+            "color": "Black",
+            "gender": "Mare",
+            "parent": "Midnight City",
+            "title": ""
+          }
         ]
       },
       {
@@ -2488,8 +3042,17 @@
         "dam": "Nanda Ster",
         "damId": 36319,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Einbeck",
+            "breed": "Brandenburg",
+            "age": "2016",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Edelrijke",
+            "title": ""
+          }
         ]
       },
       {
@@ -2507,7 +3070,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2526,7 +3089,7 @@
         "dam": "Midnight City",
         "damId": 39584,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2545,7 +3108,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -2564,7 +3127,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -2583,7 +3146,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -2596,13 +3159,13 @@
         "year": "1997",
         "color": "Black",
         "gender": "Mare",
-        "discipline": "Brood",
+        "discipline": "Retired Dressage",
         "sire": "Executive In Training",
         "sireId": 867, 
         "dam": "Noire Galanterie",
         "damId": 11546,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2621,7 +3184,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2640,7 +3203,7 @@
         "dam": "Sharp Turn",
         "damId": 4085,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -2659,8 +3222,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Ryodan",
+            "breed": "Irish Cob",
+            "age": "2013",
+            "color": "Black Sabino",
+            "gender": "Stallion",
+            "parent": "Finvarra",
+            "title": "CC"
+          }
         ]
       },
       {
@@ -2672,14 +3244,23 @@
         "year": "2008",
         "color": "Grey Dun",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Pony Jumper",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
+          {
+            "name": "Generell",
+            "breed": "Norwegian Fjord",
+            "age": "2011",
+            "color": "Brown Dun",
+            "gender": "Stallion",
+            "parent": "Malena",
+            "title": "HoF"
+          }
         ]
       },
       {
@@ -2697,8 +3278,17 @@
         "dam": "Reminisce",
         "damId": 27459,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Maul",
+            "breed": "Westphalian",
+            "age": "2017",
+            "color": "Chesntut",
+            "gender": "Stallion",
+            "parent": "Missing",
+            "title": ""
+          }
         ]
       },
       {
@@ -2716,7 +3306,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -2735,7 +3325,7 @@
         "dam": "Launch Code",
         "damId": 37970,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -2754,7 +3344,7 @@
         "dam": "Demimonde",
         "damId": 23193,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2773,7 +3363,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -2792,8 +3382,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Zella",
+            "breed": "Oldenburg",
+            "age": "2012",
+            "color": "Bay Tobiano",
+            "gender": "Mare",
+            "parent": "Zachary",
+            "title": "GC"
+          }
         ]
       },
       {
@@ -2805,13 +3404,13 @@
         "year": "2010",
         "color": "Chestnut",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Jumper",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2830,7 +3429,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -2843,14 +3442,23 @@
         "year": "2001",
         "color": "Bay",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Hunter",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Pounce",
+            "breed": "Oldenburg",
+            "age": "2005",
+            "color": "Grey",
+            "gender": "Mare",
+            "parent": "Arod (SHS)",
+            "title": "HoF"
+          }
         ]
       },
       {
@@ -2868,8 +3476,26 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "The Fifth Element",
+            "breed": "Oldenburg",
+            "age": "2008",
+            "color": "Bay Tobiano",
+            "gender": "Mare",
+            "parent": "The Sixth Sense (SHS)",
+            "title": "NC"
+          },
+          {
+            "name": "Kirra",
+            "breed": "Oldenburg",
+            "age": "2017",
+            "color": "Bay Tobiano",
+            "gender": "Mare",
+            "parent": "Kitango",
+            "title": ""
+          }
         ]
       },
       {
@@ -2887,8 +3513,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
+          {
+            "name": "Aengus",
+            "breed": "Irish Cob",
+            "age": "2014",
+            "color": "Black",
+            "gender": "Stallion",
+            "parent": "Sweet Confessions",
+            "title": "CH"
+          }
         ]
       },
       {
@@ -2900,13 +3535,13 @@
         "year": "2001",
         "color": "Grey (Bay)",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Pony Hunter",
         "sire": "Weston Peter Pan",
         "sireId": 24031, 
         "dam": "Hop Scotch",
         "damId": 5031,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2919,13 +3554,13 @@
         "year": "2003",
         "color": "Bay",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Pony Hunter",
         "sire": "Weston Scooby Doo",
         "sireId": 24015, 
         "dam": "Weston My Little Pony",
         "damId": 12068,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2944,7 +3579,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -2963,7 +3598,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -3000,7 +3635,7 @@
         "dam": "Gateway Mock",
         "damId": 1569,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -3019,8 +3654,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "One Sharp Second",
+            "breed": "Quarter Horse",
+            "age": "2017",
+            "color": "Champagne",
+            "gender": "Stallion",
+            "parent": "Hawker",
+            "title": ""
+          }
         ]
       },
       {
@@ -3038,7 +3682,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -3057,7 +3701,7 @@
         "dam": "Lies and Kisses",
         "damId": 25379,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -3076,8 +3720,26 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Emma",
+            "breed": "Oldenburg",
+            "age": "2008",
+            "color": "Chestnut",
+            "gender": "Mare",
+            "parent": "Emerson (SHS)",
+            "title": "HoF"
+          },
+          {
+            "name": "Rainey",
+            "breed": "Olgenburg",
+            "age": "2010",
+            "color": "Bay Tobiano",
+            "gender": "Mare",
+            "parent": "Reality Check (SHS)",
+            "title": "HoF"
+          }
         ]
       },
       {
@@ -3089,13 +3751,13 @@
         "year": "2005",
         "color": "Chestnut",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Pony Jumper",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -3114,7 +3776,7 @@
         "dam": "Lisanna",
         "damId": 33150,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -3127,14 +3789,23 @@
         "year": "2012",
         "color": "Blue Roan",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Reining",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
+          {
+            "name": "Ten Gallon",
+            "breed": "Quarter Horse",
+            "age": "2017",
+            "color": "Grullo Roan",
+            "gender": "Stallion",
+            "parent": "Dun In Red",
+            "title": ""
+          }
         ]
       },
       {
@@ -3142,18 +3813,127 @@
         "id": 22969,
         "pic": "",
         "breed": "Westphalian",
-        "category": "Warmblood Brood",
+        "category": "Warmblood Special",
+        "special": "Produced 3 SHS colts",
         "year": "1996",
         "color": "Chestnut",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Retired Jumper",
         "sire": "Shoebox (SHS)",
         "sireId": 21374, 
         "dam": "DeLorean",
         "damId": 19472,
-        "available": true,
-        "fee": "$15,000",
+        "available": false,
+        "fee": "$150,000",
         "progeny": [
+          {
+            "name": "Lucas",
+            "breed": "Westphalian",
+            "age": "1999",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Luke (SHS)",
+            "title": "HoF"
+          },
+          {
+            "name": "Sinergy",
+            "breed": "Westphalian",
+            "age": "2000",
+            "color": "Chestnut",
+            "gender": "Stallion",
+            "parent": "Sin (SHS)",
+            "title": ""
+          },
+          {
+            "name": "Artwork (SHS)",
+            "breed": "Westphalian",
+            "age": "2001",
+            "color": "Grey",
+            "gender": "Stallion",
+            "parent": "Assyria (SHS)",
+            "title": "IHoF"
+          },
+          {
+            "name": "Flatter",
+            "breed": "Westphalian",
+            "age": "2002",
+            "color": "Bay",
+            "gender": "Mare",
+            "parent": "Fortune 'n Fame (SHS)",
+            "title": "CC"
+          },
+          {
+            "name": "Suave",
+            "breed": "Westphalian",
+            "age": "2003",
+            "color": "Grey",
+            "gender": "Stallion",
+            "parent": "Southside (SHS)",
+            "title": "CH"
+          },
+          {
+            "name": "Magnefique (SHS)",
+            "breed": "Westphalian",
+            "age": "2004",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "More Power (SHS)",
+            "title": "HoF"
+          },
+          {
+            "name": "Knightswood",
+            "breed": "Hanoverian",
+            "age": "2005",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Kostlich (SHS)",
+            "title": "IHoF"
+          },
+          {
+            "name": "Abstract (SHS)",
+            "breed": "Westphalian",
+            "age": "2006",
+            "color": "Chestnut",
+            "gender": "Stallion",
+            "parent": "Askersund (SHS)",
+            "title": "IHoF"
+          },
+          {
+            "name": "Alterecho",
+            "breed": "Westphalian",
+            "age": "2007",
+            "color": "Bay",
+            "gender": "Mare",
+            "parent": "Askersund (SHS)",
+            "title": "IHoF"
+          },
+          {
+            "name": "Raine",
+            "breed": "Oldenburg",
+            "age": "2008",
+            "color": "Bay",
+            "gender": "Mare",
+            "parent": "Relent! (SHS)",
+            "title": "CH"
+          },
+          {
+            "name": "Ambigue",
+            "breed": "Selle Francais",
+            "age": "2010",
+            "color": "Bay",
+            "gender": "Mare",
+            "parent": "Monseigneur",
+            "title": "HoF"
+          },
+          {
+            "name": "High and Dry",
+            "breed": "Dutch Warmblood",
+            "age": "2012",
+            "color": "Grey",
+            "gender": "Mare",
+            "parent": "Avaunt (SHS)",
+            "title": "CH"
+          }
         ]
       },
       {
@@ -3171,7 +3951,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -3190,8 +3970,17 @@
         "dam": "Thora",
         "damId": 37485,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Tusmorke",
+            "breed": "Knabstrupper",
+            "age": "2013",
+            "color": "Chestnut Leopard",
+            "gender": "Mare",
+            "parent": "Houndstooth",
+            "title": ""
+          }
         ]
       },
       {
@@ -3209,7 +3998,7 @@
         "dam": "Red Square's Dancing Mare",
         "damId": 7864,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -3222,14 +4011,32 @@
         "year": "2001",
         "color": "Bay",
         "gender": "Mare",
-        "discipline": "Brood",
+        "discipline": "Retired Dressage",
         "sire": "Santana (SHS)",
         "sireId": 5424, 
         "dam": "Being With You",
         "damId": 24975,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Android",
+            "breed": "Westphalian",
+            "age": "2010",
+            "color": "Black",
+            "gender": "Mare",
+            "parent": "Atsushi",
+            "title": "HoF"
+          },
+          {
+            "name": "Tuaca",
+            "breed": "Westphalian",
+            "age": "2013",
+            "color": "Bay",
+            "gender": "Mare",
+            "parent": "Top Shelf",
+            "title": "HoF"
+          }
         ]
       },
       {
@@ -3241,13 +4048,13 @@
         "year": "2004",
         "color": "Grey (Bay)",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Pony Hunter",
         "sire": "Smallwood Prism",
         "sireId": 1461, 
         "dam": "Fourteen Angels",
         "damId": 15594,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -3260,14 +4067,32 @@
         "year": "2001",
         "color": "Black",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Eventer",
         "sire": "Tokyo",
         "sireId": 20822, 
         "dam": "Blood Play",
         "damId": 23460,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$15,000",
         "progeny": [
+          {
+            "name": "Tribute",
+            "breed": "Westphalian",
+            "age": "2004",
+            "color": "Chestnut",
+            "gender": "Stallion",
+            "parent": "Crematoria",
+            "title": "CC"
+          },
+          {
+            "name": "Taebin",
+            "breed": "Westphalian",
+            "age": "2004",
+            "color": "Grey",
+            "gender": "Stallion",
+            "parent": "Concrete Rose",
+            "title": "HoF"
+          }
         ]
       },
       {
@@ -3285,7 +4110,7 @@
         "dam": "Dun In Red",
         "damId": 4009,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -3304,8 +4129,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Sunna",
+            "breed": "Knabstrupper",
+            "age": "2009",
+            "color": "Chestnut Leopard",
+            "gender": "Mare",
+            "parent": "Sunfire (SHS)",
+            "title": "NC"
+          }
         ]
       },
       {
@@ -3323,7 +4157,7 @@
         "dam": "Rock Me Too",
         "damId": 3653,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$7,000",
         "progeny": [
         ]
       },
@@ -3336,14 +4170,23 @@
         "year": "2002",
         "color": "Buckskin",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Pony Jumper",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
+          {
+            "name": "Cearney",
+            "breed": "Connemara",
+            "age": "2005",
+            "color": "Bay",
+            "gender": "Stallion",
+            "parent": "Fainne",
+            "title": "NC"
+          }
         ]
       },
       {
@@ -3355,13 +4198,13 @@
         "year": "2009",
         "color": "Chestnut",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Eventer",
         "sire": "Trafalgar (SHS)",
         "sireId": 3386, 
         "dam": "Aidin",
         "damId": 27960,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -3380,7 +4223,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -3399,7 +4242,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -3412,14 +4255,23 @@
         "year": "2000",
         "color": "Bay",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Eventer",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
+          {
+            "name": "Highlight Z",
+            "breed": "Hanoverian",
+            "age": "2004",
+            "color": "Chestnut",
+            "gender": "Gelding",
+            "parent": "Lina Not",
+            "title": "GC"
+          }
         ]
       },
       {
@@ -3437,7 +4289,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -3456,8 +4308,17 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Houndstooth",
+            "breed": "Knabstrupper",
+            "age": "2010",
+            "color": "Chestnut Blanket",
+            "gender": "Stallion",
+            "parent": "Somebody Red (SHS)",
+            "title": "GC"
+          }
         ]
       },
       {
@@ -3475,8 +4336,17 @@
         "dam": "Tahiti",
         "damId": 23863,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Missing",
+            "breed": "Westphalian",
+            "age": "2013",
+            "color": "Chestnut",
+            "gender": "Stallion",
+            "parent": "Murder",
+            "title": "GC"
+          }
         ]
       },
       {
@@ -3488,13 +4358,13 @@
         "year": "2010",
         "color": "Brown Dun",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Pony Jumper",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -3513,8 +4383,26 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
+          {
+            "name": "Borislav",
+            "breed": "Orlov-Rostopchin",
+            "age": "2007",
+            "color": "Black",
+            "gender": "Stallion",
+            "parent": "Bronson",
+            "title": "NC"
+          },
+          {
+            "name": "Merkurii",
+            "breed": "Orlov-Rostopchin",
+            "age": "2009",
+            "color": "Black",
+            "gender": "Stallion",
+            "parent": "The Grave Maurice",
+            "title": "GC"
+          }
         ]
       },
       {
@@ -3532,7 +4420,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
           {
             "name": "Fantasifull",
@@ -3560,7 +4448,7 @@
         "dam": "Embla",
         "damId": 35829,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -3573,13 +4461,13 @@
         "year": "1997",
         "color": "Chestnut",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Eventer",
         "sire": "Watermark (SHS)",
         "sireId": 6401, 
         "dam": "The Severus Love (SHS)",
         "damId": 19906,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$20,000",
         "progeny": [
           {
             "name": "When Heaven Falls",
@@ -3657,7 +4545,7 @@
           { "highlight": ""}
         ],
         "available": true,
-        "fee": "$5,000",
+        "fee": "$25,000",
         "progeny": [
           {
             "name": "Ravenholm Sock Monster",
@@ -3742,13 +4630,13 @@
         "year": "2012",
         "color": "Bay",
         "gender": "Mare",
-        "discipline": "Eventing",
+        "discipline": "Reining",
         "sire": "Created",
         "sireId": null, 
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -3767,7 +4655,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$10,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -3786,7 +4674,7 @@
         "dam": "Galeeah",
         "damId": 12323,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
           {
             "name": "Windward",
@@ -3814,7 +4702,7 @@
         "dam": "Integra",
         "damId": 27176,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -3833,7 +4721,7 @@
         "dam": "Wallstreet",
         "damId": 11578,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -3852,7 +4740,7 @@
         "dam": "Whirl",
         "damId": 35963,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -3871,7 +4759,7 @@
         "dam": "Haute",
         "damId": 34327,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -3890,7 +4778,7 @@
         "dam": "Anuire (SHS)",
         "damId": 25254,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
           {
             "name": "Elevate",
@@ -3918,7 +4806,7 @@
         "dam": "Fylla",
         "damId": 33561,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
         ]
       },
@@ -3937,7 +4825,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       },
@@ -3956,7 +4844,7 @@
         "dam": "Invitation",
         "damId": 36335,
         "available": true,
-        "fee": "$15,000",
+        "fee": "$20,000",
         "progeny": [
           {
             "name": "Goldfeather",
@@ -3978,13 +4866,13 @@
         "year": "1999",
         "color": "Chestnut",
         "gender": "Stallion",
-        "discipline": "Eventing",
+        "discipline": "Retired Dressage",
         "sire": "Yoshiki (SHS)",
         "sireId": 25965, 
         "dam": "Bianca",
         "damId": 23594,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$20,000",
         "progeny": [
           {
             "name": "Ysatis",
@@ -4030,7 +4918,7 @@
         "dam": "Created",
         "damId": null,
         "available": true,
-        "fee": "$5,000",
+        "fee": "$10,000",
         "progeny": [
         ]
       }

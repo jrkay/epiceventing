@@ -43,7 +43,12 @@ class App extends Component {
                     filter: "Warmblood"
                 });
                 break;
-            case 'Stud':
+                case 'Special':
+                    this.setState({
+                        filter: "Special"
+                    });
+                break;
+                case 'Stud':
                 this.setState({
                     filter: "Stud"
                 });

@@ -72,6 +72,10 @@ class HorseBox extends Component {
                                     ? <p style={{fontSize: "13px"}}>Created</p>
                                     : <p style={{fontSize: "13px"}}>{horse.sire} x {horse.dam}</p>
                                 }
+                                { horse.special != null
+                                    ? <div style={{fontSize: "13px"}} dangerouslySetInnerHTML={{__html: horse.special}} />
+                                    : <></>
+                                }
                             </div>
 
                             <div key={i} className="button-link" style={{float: "right", marginRight: "-20px", marginBottom: "-5px"}}>
@@ -108,7 +112,8 @@ class HorseBox extends Component {
                                                     ? <span>Unavailable for breeding</span>
                                                     : <span>Available for breeding<br /> 
                                                         { horse.category.includes("Stud")
-                                                            ? <em>{(new Date().getFullYear())} Stud Fee: {horse.fee}</em>
+                                                            ? <div><span>Foals </span>{parseInt(horse.year) + 3}<span>+</span><br />
+                                                            <em>{(new Date().getFullYear())} Stud Fee: {horse.fee}</em></div>
                                                             : <em>{(new Date().getFullYear())} Brood Fee: {horse.fee} / year</em>}
                                                         </span>
                                                 }</p>

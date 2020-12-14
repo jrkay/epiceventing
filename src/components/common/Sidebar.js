@@ -32,6 +32,7 @@ class Sidebar extends Component {
           <Button className="sidebar-button" onClick={() => handleChange('Stock')} color="primary" variant="contained" size='large'>Stock</Button>
           <Button className="sidebar-button" onClick={() => handleChange('Pony')} color="primary" variant="contained" size='large'>Pony</Button>
           <Button className="sidebar-button" onClick={() => handleChange('Warmblood')} color="primary" variant="contained" size='large'>Warmblood</Button>
+          <Button className="sidebar-button" onClick={() => handleChange('Special')} color="primary" variant="contained" size='large'>Special</Button>
         </ThemeProvider>
         </div>
           );
