@@ -114,7 +114,7 @@ class HorseBox extends Component {
                                                         { horse.category.includes("Stud")
                                                             ?  <div><br /><em>{(new Date().getFullYear())} Stud Fee: {horse.fee}</em><br />
                                                             <b style={{fontSize: "20px", color: "rgb(	0, 255, 255, .3)"}}>Available </b>to sire foals {parseInt(horse.year) + 3}<span>+</span><br /></div>
-                                                            : <span><br /><em>{(new Date().getFullYear())} Brood Fee: {horse.fee} / year</em><br /><b style={{fontSize: "20px", color: "rgb(	0, 255, 255, .3)"}}>Open Years: </b> {horse.openyears}</span>
+                                                            : <span><br /><em>{(new Date().getFullYear())} Brood Fee: {horse.fee} / year</em><br /><b>Open Years: </b> {horse.openyears}</span>
                                                         }
                                                         </span>
                                                 }</p>
@@ -140,7 +140,8 @@ class HorseBox extends Component {
                                         <Grid item xs={6}>
                                             <div>
                                                 <div className="performance-info">Performance Information</div>
-                                                <p><a href={"http://www.hfshc.com/ShowDB/hfshowrecords.php?id=" +  horse.id.toString().padStart(5, "0") + "&name=" + horse.name} target='_newWindow'>Show Record</a></p>
+                                                <p><a href={"http://www.hfshc.com/ShowDB/hfshowrecords.php?id=" +  horse.id.toString().padStart(5, "0") + "&name=" + horse.name} target='_newWindow'>Show Record</a><br />
+                                                {horse.discipline}</p>
                                                 { horse.special != null
                                                     ? <div dangerouslySetInnerHTML={{__html: horse.special}} />
                                                     : <></>
