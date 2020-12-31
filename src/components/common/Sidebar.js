@@ -33,6 +33,8 @@ class Sidebar extends Component {
           <Button className="sidebar-button" onClick={() => handleChange('Pony')} color="primary" variant="contained" size='large'>Pony</Button>
           <Button className="sidebar-button" onClick={() => handleChange('Warmblood')} color="primary" variant="contained" size='large'>Warmblood</Button>
           <Button className="sidebar-button" onClick={() => handleChange('Special')} color="primary" variant="contained" size='large'>Special</Button>
+          <Button className="sidebar-button" onClick={() => handleChange('International')} color="primary" variant="contained" size='large'>2021 International</Button>
+          <Button className="sidebar-button" onClick={() => handleChange('YEH')} color="primary" variant="contained" size='large'>Young Eventers</Button>
         </ThemeProvider>
         </div>
           );

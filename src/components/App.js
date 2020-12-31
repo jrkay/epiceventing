@@ -43,12 +43,12 @@ class App extends Component {
                     filter: "Warmblood"
                 });
                 break;
-                case 'Special':
+            case 'Special':
                     this.setState({
                         filter: "Special"
                     });
                 break;
-                case 'Stud':
+            case 'Stud':
                 this.setState({
                     filter: "Stud"
                 });
@@ -57,6 +57,16 @@ class App extends Component {
                 this.setState({
                     filter: "Brood"
                 });
+                break;
+            case 'International':
+                    this.setState({
+                        filter: "International"
+                    });
+                break;
+            case 'YEH':
+                    this.setState({
+                        filter: "YEH"
+                    });
                 break;
             default:
                 this.setState({

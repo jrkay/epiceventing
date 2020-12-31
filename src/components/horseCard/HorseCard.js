@@ -72,6 +72,14 @@ class HorseBox extends Component {
                                     ? <p style={{fontSize: "13px"}}>Created</p>
                                     : <p style={{fontSize: "13px"}}>{horse.sire} x {horse.dam}</p>
                                 }
+                                { horse.yeh != null
+                                    ? <span style={{fontSize: "13px"}}>{horse.year} YEH</span>
+                                    : <></>
+                                }
+                                { horse.international != null
+                                    ? <span style={{fontSize: "13px"}}>International level</span>
+                                    : <></>
+                                }
                                 { horse.special != null
                                     ? <div style={{fontSize: "13px"}} dangerouslySetInnerHTML={{__html: horse.special}} />
                                     : <></>
@@ -98,11 +106,11 @@ class HorseBox extends Component {
                                     </MuiDialogTitle>
                                     <DialogContent dividers>
                                     <Typography gutterBottom>
-                                        <span style={{fontSize: "20px"}}>{horse.year} {horse.breed} {horse.gender}</span><br />
+                                        <span style={{fontSize: "20px"}}>{horse.year} {horse.color} {horse.breed} {horse.gender}</span><br />
                                         { horse.sire === "Created"
                                             ? <p>Created</p>
                                             : <p>{horse.sire} x {horse.dam}</p>
-                                        }
+                                        }<br /><br />
                                     </Typography>
                                     <Grid container direction="row" justify="center" alignItems="flex-start" spacing={3} >
                                         <Grid item xs={6}>
@@ -113,11 +121,11 @@ class HorseBox extends Component {
                                                     : <span>Available for breeding<br /> 
                                                         { horse.category.includes("Stud")
                                                             ?  <div><br /><em>{(new Date().getFullYear())} Stud Fee: {horse.fee}</em><br />
-                                                            <b style={{fontSize: "20px", color: "rgb(	0, 255, 255, .3)"}}>Available </b>to sire foals {parseInt(horse.year) + 3}<span>+</span><br /></div>
+                                                            <b>Available </b>to sire foals {parseInt(horse.year) + 3}<span>+</span><br /></div>
                                                             : <span><br /><em>{(new Date().getFullYear())} Brood Fee: {horse.fee} / year</em><br /><b>Open Years: </b> {horse.openyears}</span>
                                                         }
                                                         </span>
-                                                }</p>
+                                                }</p><br /><br />
                                                 <div className="progeny">Progeny <span style={{color: "#444"}}>{horse.progeny.length != 0 ? "(" + horse.progeny.length +")" : <></>}</span></div>
                                                 { horse.progeny.length != 0  ? 
                                                     <div>
@@ -141,7 +149,7 @@ class HorseBox extends Component {
                                             <div>
                                                 <div className="performance-info">Performance Information</div>
                                                 <p><a href={"http://www.hfshc.com/ShowDB/hfshowrecords.php?id=" +  horse.id.toString().padStart(5, "0") + "&name=" + horse.name} target='_newWindow'>Show Record</a><br />
-                                                {horse.discipline}</p>
+                                                {horse.discipline} {horse.international != null ? <span> - International level</span> : <></>} {horse.yeh != null ? <span> - {horse.year} YEH</span> : <></>}</p>
                                                 { horse.special != null
                                                     ? <div dangerouslySetInnerHTML={{__html: horse.special}} />
                                                     : <></>

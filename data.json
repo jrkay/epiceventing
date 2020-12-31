@@ -36,7 +36,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -56,7 +56,7 @@
         "damId": 4337,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -76,7 +76,7 @@
         "damId": 27194,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -96,7 +96,7 @@
         "damId": 21443,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "France",
@@ -125,7 +125,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Merens",
@@ -154,7 +154,7 @@
         "damId": 34798,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -174,7 +174,7 @@
         "damId": 34212,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2012, 2017-2021",  
+        "openyears": "2010-2012, 2017-2021",
 			  "progeny": [
         ]
       },
@@ -194,7 +194,7 @@
         "damId": 22969,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010, 2021",  
+        "openyears": "2010, 2021",
 			  "progeny": [
         ]
       },
@@ -214,7 +214,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Erco",
@@ -243,7 +243,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -263,7 +263,7 @@
         "damId": 23856,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -283,7 +283,7 @@
         "damId": 20907,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -303,7 +303,7 @@
         "damId": null,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2021",  
+        "openyears": "2010-2021",
 			  "progeny": [
           {
             "name": "Alisa",
@@ -332,7 +332,7 @@
         "damId": 5238,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -352,7 +352,7 @@
         "damId": 43827,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -373,7 +373,7 @@
         "damId": 22969,
         "available": false,
         "fee": "$150,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Artiq",
@@ -519,7 +519,7 @@
         "damId": 826,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2012, 2019-2021",  
+        "openyears": "2010-2012, 2019-2021",
 			  "progeny": [
           {
             "name": "Midnight City",
@@ -548,7 +548,7 @@
         "damId": 32065,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -568,7 +568,7 @@
         "damId": 12298,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2014, 2017-2021",  
+        "openyears": "2010-2014, 2017-2021",
 			  "progeny": [
           {
             "name": "Konvict",
@@ -597,7 +597,7 @@
         "damId": 26561,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2011, 2017-2021",  
+        "openyears": "2011, 2017-2021",
 			  "progeny": [
         ]
       },
@@ -617,7 +617,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Ambrosia",
@@ -646,7 +646,7 @@
         "damId": 35836,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -666,7 +666,7 @@
         "damId": 36205,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -686,7 +686,7 @@
         "damId": 26153,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2011, 2012, 2021",  
+        "openyears": "2011, 2012, 2021",
 			  "progeny": [
           {
             "name": "Vespa",
@@ -715,7 +715,7 @@
         "damId": 5000,
         "available": true,
         "fee": "$15,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Bluejay",
@@ -753,7 +753,7 @@
         "damId": 27400,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -773,7 +773,7 @@
         "damId": 39236,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -794,7 +794,7 @@
         "damId": null,
         "available": true,
         "fee": "$25,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Hawthorn",
@@ -832,7 +832,7 @@
         "damId": 26062,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -851,7 +851,7 @@
         "dam": "Amrou Kithkin",
         "damId": 13382,
         "available": false,
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": []
       },
       {
@@ -870,7 +870,7 @@
         "damId": 34643,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -890,7 +890,7 @@
         "damId": null,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2013, 2021",  
+        "openyears": "2010-2013, 2021",
 			  "progeny": [
           {
             "name": "Jette",
@@ -908,7 +908,7 @@
         "id": 43856,
         "pic": "",
         "breed": "Selle Francias",
-        "category": "Warmblood Stud",
+        "category": "Warmblood Stud International",
         "year": "2011",
         "color": "Bay",
         "gender": "Stallion",
@@ -919,7 +919,8 @@
         "damId": null,
         "available": true,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
+        "international": true,
 			  "progeny": [
         ]
       },
@@ -939,7 +940,7 @@
         "damId": 38980,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -959,7 +960,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Castamere",
@@ -977,7 +978,7 @@
         "id": 43832,
         "pic": "",
         "breed": "Irish Draught",
-        "category": "Draft",
+        "category": "Draft YEH",
         "year": "2016",
         "color": "Chestnut",
         "gender": "Stallion",
@@ -988,7 +989,8 @@
         "damId": null,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
+        "yeh": true,
 			  "progeny": [
         ]
       },
@@ -1005,10 +1007,10 @@
         "sire": "Casino King (SHS)",
         "sireId": 12611, 
         "dam": "Where Rainbows End",
-        "damId": 22801,        
+        "damId": 22801,      
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1028,7 +1030,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1037,7 +1039,7 @@
         "id": 43811,
         "pic": "",
         "breed": "Percheron Sport Horse",
-        "category": "Warmblood",
+        "category": "Warmblood YEH",
         "year": "2017",
         "color": "Grey (Chestnut)",
         "gender": "Mare",
@@ -1048,7 +1050,8 @@
         "damId": 6761,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
+        "yeh": true,
 			  "progeny": [
         ]
       },
@@ -1068,7 +1071,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "2010-2015, 2012",  
+        "openyears": "2010-2015, 2012",
 			  "progeny": [
           {
             "name": "Grandia",
@@ -1097,7 +1100,7 @@
         "damId": 29032,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1117,7 +1120,7 @@
         "damId": 16736,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1137,7 +1140,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1157,7 +1160,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1177,7 +1180,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1196,7 +1199,7 @@
         "dam": "Ithilien EP",
         "damId": 16920,
         "available": false,
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": []
       },
       {
@@ -1215,7 +1218,7 @@
         "damId": null,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2012, 2013, 2018-2021",  
+        "openyears": "2012, 2013, 2018-2021",
 			  "progeny": [
         ]
       },
@@ -1235,7 +1238,7 @@
         "damId": 34547,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1255,7 +1258,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1275,7 +1278,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1295,7 +1298,7 @@
         "damId": 16736,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1315,7 +1318,7 @@
         "damId": 31020,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2013, 2017-2021",  
+        "openyears": "2013, 2017-2021",
 			  "progeny": [
         ]
       },
@@ -1335,7 +1338,7 @@
         "damId": null,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Dot Matrix",
@@ -1364,7 +1367,7 @@
         "damId": 17893,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1384,7 +1387,7 @@
         "damId": 34368,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1405,7 +1408,7 @@
         "damId": 27191,
         "available": true,
         "fee": "$25,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Drifa",
@@ -1443,7 +1446,7 @@
         "damId": null,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2016, 2018-2021",  
+        "openyears": "2010-2016, 2018-2021",
 			  "progeny": [
           {
             "name": "Ten Gallon",
@@ -1472,7 +1475,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1492,7 +1495,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Einbeck",
@@ -1521,7 +1524,7 @@
         "damId": 33700,
         "available": false,
         "fee": "$20,000",
-        "openyears": "2012, 2013, 2021",  
+        "openyears": "2012, 2013, 2021",
 			  "progeny": [
           {
             "name": "Meowth",
@@ -1550,7 +1553,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1559,7 +1562,7 @@
         "id": 43851,
         "pic": "",
         "breed": "Brandenburg",
-        "category": "Warmblood",
+        "category": "Warmblood YEH",
         "year": "2016",
         "color": "Bay",
         "gender": "Stallion",
@@ -1570,7 +1573,8 @@
         "damId": 36413,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
+        "yeh": true,
 			  "progeny": [
         ]
       },
@@ -1590,7 +1594,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1610,7 +1614,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1630,7 +1634,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1650,7 +1654,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1670,7 +1674,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1690,7 +1694,7 @@
         "damId": 34951,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1710,7 +1714,27 @@
         "damId": 30873,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
+			  "progeny": [
+        ]
+      },
+      {
+        "name": "Fairbanks",
+        "id": 43942,
+        "pic": "",
+        "breed": "Selle Francais",
+        "category": "Warmblood",
+        "year": "2015",
+        "color": "Bay",
+        "gender": "Stallion",
+        "discipline": "Eventing",
+        "sire": "Bushwick",
+        "sireId": 43856, 
+        "dam": "Bette",
+        "damId": 39347,
+        "available": false,
+        "fee": "$10,000",
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1730,7 +1754,7 @@
         "dam": "My Own Summer",
         "damId": 16688,
         "available": false,
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Tyrannical",
@@ -1813,7 +1837,7 @@
         "damId": 36648,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1833,7 +1857,7 @@
         "damId": 37735,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1842,7 +1866,7 @@
         "id": 43864,
         "pic": "",
         "breed": "Irish Draught",
-        "category": "Draft",
+        "category": "Draft YEH",
         "year": "2015",
         "color": "Bay",
         "gender": "Mare",
@@ -1853,7 +1877,8 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
+        "yeh": true,
 			  "progeny": [
         ]
       },
@@ -1873,7 +1898,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "2021",  
+        "openyears": "2021",
 			  "progeny": [
           {
             "name": "Sinzig",
@@ -1900,7 +1925,7 @@
         "id": 37297,
         "pic": "",
         "breed": "Belgian Warmblood",
-        "category": "Warmblood",
+        "category": "Warmblood International",
         "special": "2018 WEG Eventing<br />$10,000 in winnings",
         "year": "2005",
         "color": "Chestnut",
@@ -1912,7 +1937,8 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
+        "international": true,
 			  "progeny": [
           {
             "name": "Morrison",
@@ -1941,7 +1967,7 @@
         "damId": 27916,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1961,7 +1987,7 @@
         "damId": 31866,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -1981,7 +2007,7 @@
         "damId": 17933,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2001,7 +2027,7 @@
         "damId": 3576,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2021,7 +2047,7 @@
         "damId": 21836,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2021",  
+        "openyears": "2021",
 			  "progeny": [
         ]
       },
@@ -2041,7 +2067,7 @@
         "damId": 33858,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Meowth",
@@ -2070,7 +2096,7 @@
         "damId": 34696,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Kobenhavn",
@@ -2099,7 +2125,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2119,7 +2145,7 @@
         "damId": 25549,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2139,7 +2165,7 @@
         "damId": 27155,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2148,7 +2174,7 @@
         "id": 40012,
         "pic": "",
         "breed": "Oldenburg",
-        "category": "Warmblood",
+        "category": "Warmblood International",
         "year": "2011",
         "color": "Chestnut Tobiano",
         "gender": "Stallion",
@@ -2159,8 +2185,9 @@
         "damId": null,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
-			  "progeny": [
+        "openyears": "",
+        "international": true,
+        "progeny": [
         ]
       },
       {
@@ -2168,7 +2195,7 @@
         "id": 43853,
         "pic": "",
         "breed": "Danish Warmblood",
-        "category": "Warmblood Mare",
+        "category": "Warmblood YEH",
         "year": "2016",
         "color": "Bay",
         "gender": "Mare",
@@ -2179,7 +2206,8 @@
         "damId": 37732,
         "available": true,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
+        "yeh": true,
 			  "progeny": [
         ]
       },
@@ -2188,7 +2216,7 @@
         "id": 43827,
         "pic": "",
         "breed": "Percheron",
-        "category": "Draft Mare",
+        "category": "Draft",
         "year": "2015",
         "color": "Black",
         "gender": "Mare",
@@ -2199,7 +2227,7 @@
         "damId": null,
         "available": true,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Argenterie",
@@ -2217,7 +2245,7 @@
         "id": 43953,
         "pic": "",
         "breed": "Westphalian",
-        "category": "Warmblood Mare",
+        "category": "Warmblood YEH",
         "year": "2015",
         "color": "Grey",
         "gender": "Mare",
@@ -2228,7 +2256,8 @@
         "damId": 38009,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
+        "yeh": true,
 			  "progeny": [
         ]
       },
@@ -2248,7 +2277,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Goldfeather",
@@ -2277,7 +2306,7 @@
         "damId": 20043,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2297,7 +2326,7 @@
         "damId": 27296,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2013, 2017-2021",  
+        "openyears": "2010-2013, 2017-2021",
 			  "progeny": [
           {
             "name": "Florin",
@@ -2326,7 +2355,7 @@
         "damId": 35617,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2346,7 +2375,7 @@
         "damId": 14144,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2366,7 +2395,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2386,7 +2415,7 @@
         "damId": 29032,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2406,7 +2435,7 @@
         "damId": 23350,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2011-2012, 2018-2021",  
+        "openyears": "2011-2012, 2018-2021",
 			  "progeny": [
           {
             "name": "Written Afterwards",
@@ -2435,7 +2464,7 @@
         "damId": 3656,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2455,7 +2484,7 @@
         "damId": null,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "One Sharp Second",
@@ -2484,7 +2513,7 @@
         "damId": 35105,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2504,7 +2533,7 @@
         "damId": null,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2524,7 +2553,7 @@
         "damId": 36318,
         "available": false,
         "fee": "$15,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Tusmorke",
@@ -2551,7 +2580,7 @@
         "id": 43869,
         "pic": "",
         "breed": "Irish Draught",
-        "category": "Draft",
+        "category": "Draft YEH",
         "year": "2015",
         "color": "Grey (Bay)",
         "gender": "Mare",
@@ -2562,7 +2591,8 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
+        "yeh": true,
 			  "progeny": [
         ]
       },
@@ -2582,7 +2612,7 @@
         "damId": 30453,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2602,7 +2632,7 @@
         "damId": null,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2021",  
+        "openyears": "2010-2021",
 			  "progeny": [
         ]
       },
@@ -2622,7 +2652,7 @@
         "damId": 23802,
         "available": false,
         "fee": "$20,000",
-        "openyears": "2010-2011, 2021",  
+        "openyears": "2010-2011, 2021",
 			  "progeny": [
         ]
       },
@@ -2642,7 +2672,7 @@
         "damId": 32344,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2662,7 +2692,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Yoshiko",
@@ -2691,7 +2721,7 @@
         "damId": 31740,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2711,7 +2741,7 @@
         "damId": 36713,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2731,7 +2761,7 @@
         "damId": 34961,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2751,7 +2781,7 @@
         "damId": 11911,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2771,7 +2801,7 @@
         "damId": 12365,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2791,7 +2821,7 @@
         "damId": 23802,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2811,7 +2841,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2831,7 +2861,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2840,7 +2870,7 @@
         "id": 43839,
         "pic": "",
         "breed": "Oldenburg",
-        "category": "Warmblood",
+        "category": "Warmblood YEH",
         "year": "2017",
         "color": "Bay",
         "gender": "Mare",
@@ -2851,7 +2881,8 @@
         "damId": 37247,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
+        "yeh": true,
 			  "progeny": [
         ]
       },
@@ -2871,7 +2902,7 @@
         "damId": null,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2020",  
+        "openyears": "2010-2020",
 			  "progeny": [
         ]
       },
@@ -2891,7 +2922,7 @@
         "damId": 10404,
         "available": true,
         "fee": "$15,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Kameric",
@@ -2938,7 +2969,7 @@
         "damId": 36166,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -2958,7 +2989,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Pinewood",
@@ -3007,7 +3038,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3027,7 +3058,7 @@
         "damId": null,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2021",  
+        "openyears": "2010-2021",
 			  "progeny": [
         ]
       },
@@ -3047,7 +3078,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3056,7 +3087,7 @@
         "id": 43882,
         "pic": "",
         "breed": "Westphalian",
-        "category": "Warmblood",
+        "category": "Warmblood YEH",
         "year": "2017",
         "color": "Chestnut",
         "gender": "Stallion",
@@ -3067,7 +3098,8 @@
         "damId": 38302,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
+        "yeh": true,
 			  "progeny": [
         ]
       },
@@ -3076,7 +3108,7 @@
         "id": 43894,
         "pic": "",
         "breed": "Dutch Warmblood",
-        "category": "Warmblood",
+        "category": "Warmblood YEH",
         "year": "2017",
         "color": "Bay",
         "gender": "Stallion",
@@ -3087,7 +3119,8 @@
         "damId": 37189,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
+        "yeh": true,
 			  "progeny": [
         ]
       },
@@ -3107,7 +3140,7 @@
         "damId": 31751,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3127,7 +3160,7 @@
         "damId": 30898,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Not Even Embers",
@@ -3156,7 +3189,7 @@
         "damId": 20221,
         "available": true,
         "fee": "$15,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "My Last Love",
@@ -3194,7 +3227,7 @@
         "damId": 37183,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Maul",
@@ -3223,7 +3256,7 @@
         "damId": 6844,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Hy Lights",
@@ -3251,7 +3284,7 @@
         "damId": 37297,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3272,7 +3305,7 @@
         "damId": null,
         "available": true,
         "fee": "$25,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Not Even Embers",
@@ -3301,7 +3334,7 @@
         "damId": 36319,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Einbeck",
@@ -3330,7 +3363,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3339,7 +3372,7 @@
         "id": 43859,
         "pic": "",
         "breed": "Swedish Warmblood",
-        "category": "Warmblood",
+        "category": "Warmblood YEH",
         "year": "2016",
         "color": "Black",
         "gender": "Mare",
@@ -3350,7 +3383,8 @@
         "damId": 39584,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
+        "yeh": true,
 			  "progeny": [
         ]
       },
@@ -3370,7 +3404,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3390,7 +3424,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3410,7 +3444,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3430,7 +3464,7 @@
         "damId": 11546,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2021",  
+        "openyears": "2010-2021",
 			  "progeny": [
         ]
       },
@@ -3450,7 +3484,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3470,7 +3504,7 @@
         "damId": 4085,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3490,7 +3524,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Ryodan",
@@ -3519,7 +3553,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Generell",
@@ -3548,7 +3582,7 @@
         "damId": 27459,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Maul",
@@ -3577,7 +3611,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3586,7 +3620,7 @@
         "id": 43847,
         "pic": "",
         "breed": "Belgian Warmblood",
-        "category": "Warmblood",
+        "category": "Warmblood YEH",
         "year": "2015",
         "color": "Bay",
         "gender": "Stallion",
@@ -3597,7 +3631,8 @@
         "damId": 37970,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
+        "yeh": true,
 			  "progeny": [
         ]
       },
@@ -3617,7 +3652,7 @@
         "damId": 23193,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3637,7 +3672,7 @@
         "damId": null,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3657,7 +3692,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Zella",
@@ -3686,7 +3721,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3706,7 +3741,7 @@
         "damId": null,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -3726,7 +3761,7 @@
         "damId": null,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2012, 2017, 2021",  
+        "openyears": "2010-2012, 2017, 2021",
 			  "progeny": [
           {
             "name": "Pounce",
@@ -3755,7 +3790,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "The Fifth Element",
@@ -3793,7 +3828,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Aengus",
@@ -3822,7 +3857,7 @@
         "damId": 5031,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010, 2016-2021",  
+        "openyears": "2010, 2016-2021",
 			  "progeny": [
         ]
       },
@@ -3842,7 +3877,7 @@
         "damId": 12068,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010, 2016-2021",  
+        "openyears": "2010, 2016-2021",
 			  "progeny": [
         ]
       },
@@ -3851,7 +3886,7 @@
         "id": 43951,
         "pic": "",
         "breed": "Hanoverian",
-        "category": "Warmblood",
+        "category": "Warmblood YEH",
         "year": "2017",
         "color": "Bay",
         "gender": "Stallion",
@@ -3862,7 +3897,8 @@
         "damId": "35155",
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
+        "yeh": true,
 			  "progeny": [
         ]
       },
@@ -3882,7 +3918,7 @@
         "damId": null,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2014, 2016-2018, 2021",  
+        "openyears": "2010-2014, 2016-2018, 2021",
 			  "progeny": [
           {
             "name": "Sailors Delight",
@@ -3900,7 +3936,7 @@
         "id": 29036,
         "pic": "",
         "breed": "Hanoverian",
-        "category": "Warmblood Stud",
+        "category": "Warmblood Stud International",
         "year": "2004",
         "color": "Chestnut",
         "gender": "Stallion",
@@ -3911,7 +3947,8 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
+        "international": true,
 			  "progeny": [
         ]
       },
@@ -3931,7 +3968,7 @@
         "dam": "Back Room Access",
         "damId": 33069,
         "available": false,
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": []
       },
       {
@@ -3939,7 +3976,7 @@
         "id": 43819,
         "pic": "",
         "breed": "Percheron Sport Horse",
-        "category": "Warmblood",
+        "category": "Warmblood YEH",
         "year": "2016",
         "color": "Bay",
         "gender": "Stallion",
@@ -3950,7 +3987,8 @@
         "damId": 1569,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
+        "yeh": true,
 			  "progeny": [
         ]
       },
@@ -3970,7 +4008,7 @@
         "damId": null,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2016, 2018, 2019",  
+        "openyears": "2010-2016, 2018, 2019",
 			  "progeny": [
           {
             "name": "One Sharp Second",
@@ -3999,7 +4037,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -4019,7 +4057,7 @@
         "damId": 25379,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -4039,7 +4077,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Emma",
@@ -4077,7 +4115,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -4097,7 +4135,7 @@
         "damId": 33150,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -4117,7 +4155,7 @@
         "damId": null,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Ten Gallon",
@@ -4147,7 +4185,7 @@
         "damId": 19472,
         "available": false,
         "fee": "$150,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Lucas",
@@ -4264,7 +4302,7 @@
         "id": 40020,
         "pic": "",
         "breed": "Rheinlander ",
-        "category": "Warmblood",
+        "category": "Warmblood International",
         "year": "2011",
         "color": "Grey (Chestnut)",
         "gender": "Stallion",
@@ -4275,8 +4313,9 @@
         "damId": null,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
-			  "progeny": [
+        "openyears": "",
+        "international": true,
+        "progeny": [
         ]
       },
       {
@@ -4295,7 +4334,7 @@
         "damId": 37485,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Tusmorke",
@@ -4324,7 +4363,7 @@
         "damId": 7864,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -4344,7 +4383,7 @@
         "damId": 24975,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2018-2021",  
+        "openyears": "2018-2021",
 			  "progeny": [
           {
             "name": "Android",
@@ -4382,7 +4421,7 @@
         "damId": 15594,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2016-2021",  
+        "openyears": "2016-2021",
 			  "progeny": [
         ]
       },
@@ -4402,7 +4441,7 @@
         "damId": 23460,
         "available": true,
         "fee": "$15,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Tribute",
@@ -4440,7 +4479,7 @@
         "damId": 4009,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -4460,7 +4499,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Sunna",
@@ -4489,7 +4528,7 @@
         "damId": 3653,
         "available": false,
         "fee": "$7,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -4509,7 +4548,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Cearney",
@@ -4538,7 +4577,7 @@
         "damId": 27960,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -4558,7 +4597,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -4578,7 +4617,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -4598,7 +4637,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Highlight Z",
@@ -4627,7 +4666,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -4647,7 +4686,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Houndstooth",
@@ -4676,7 +4715,7 @@
         "damId": 23863,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Missing",
@@ -4705,7 +4744,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -4725,7 +4764,7 @@
         "damId": null,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2018",  
+        "openyears": "2010-2018",
 			  "progeny": [
           {
             "name": "Borislav",
@@ -4763,7 +4802,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Fantasifull",
@@ -4792,7 +4831,7 @@
         "damId": 35829,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -4812,7 +4851,7 @@
         "damId": 19906,
         "available": true,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "When Heaven Falls",
@@ -4891,7 +4930,7 @@
         ],
         "available": true,
         "fee": "$25,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Ravenholm Sock Monster",
@@ -4983,7 +5022,7 @@
         "damId": null,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -5003,7 +5042,7 @@
         "damId": null,
         "available": true,
         "fee": "$20,000",
-        "openyears": "2010-2016, 2018, 2019",  
+        "openyears": "2010-2016, 2018, 2019",
 			  "progeny": [
           {
             "name": "Cant Skippa Shot",
@@ -5032,7 +5071,7 @@
         "damId": 12323,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Windward",
@@ -5061,7 +5100,7 @@
         "damId": 27176,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -5081,7 +5120,7 @@
         "damId": 11578,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -5101,7 +5140,7 @@
         "damId": 35963,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -5121,7 +5160,7 @@
         "damId": 34327,
         "available": false,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -5141,7 +5180,7 @@
         "damId": 25254,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Elevate",
@@ -5170,7 +5209,7 @@
         "damId": 33561,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -5190,7 +5229,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       },
@@ -5210,7 +5249,7 @@
         "damId": 36335,
         "available": false,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Goldfeather",
@@ -5239,7 +5278,7 @@
         "damId": 23594,
         "available": true,
         "fee": "$20,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
           {
             "name": "Ysatis",
@@ -5286,7 +5325,7 @@
         "damId": null,
         "available": true,
         "fee": "$10,000",
-        "openyears": "",  
+        "openyears": "",
 			  "progeny": [
         ]
       }
