@@ -112,9 +112,10 @@ class HorseBox extends Component {
                                                     ? <span>Unavailable for breeding</span>
                                                     : <span>Available for breeding<br /> 
                                                         { horse.category.includes("Stud")
-                                                            ? <div><span>Foals </span>{parseInt(horse.year) + 3}<span>+</span><br />
-                                                            <em>{(new Date().getFullYear())} Stud Fee: {horse.fee}</em></div>
-                                                            : <em>{(new Date().getFullYear())} Brood Fee: {horse.fee} / year</em>}
+                                                            ?  <div><br /><em>{(new Date().getFullYear())} Stud Fee: {horse.fee}</em><br />
+                                                            <b style={{fontSize: "20px", color: "rgb(	0, 255, 255, .3)"}}>Available </b>to sire foals {parseInt(horse.year) + 3}<span>+</span><br /></div>
+                                                            : <span><br /><em>{(new Date().getFullYear())} Brood Fee: {horse.fee} / year</em><br /><b style={{fontSize: "20px", color: "rgb(	0, 255, 255, .3)"}}>Open Years: </b> {horse.openyears}</span>
+                                                        }
                                                         </span>
                                                 }</p>
                                                 <div className="progeny">Progeny <span style={{color: "#444"}}>{horse.progeny.length != 0 ? "(" + horse.progeny.length +")" : <></>}</span></div>
@@ -126,7 +127,7 @@ class HorseBox extends Component {
                                                                 <div key={i}>
                                                                     <div>{progeny.age} - <b style={{fontSize: "20px", color: "rgb(	0, 255, 255, .3)"}}>{progeny.name}</b>;  {progeny.breed} {progeny.gender}  
                                                                     { horse.category.includes("Stud") ? <span> (Out of <span className="progeny-name">{progeny.parent}</span>)</span> : <span> (By <span className="progeny-name">{progeny.parent}</span>)</span>}</div>
-                                                                </div> 
+                                                                </div>
                                                             );
                                                         })}
                                                     </div>
@@ -140,6 +141,10 @@ class HorseBox extends Component {
                                             <div>
                                                 <div className="performance-info">Performance Information</div>
                                                 <p><a href={"http://www.hfshc.com/ShowDB/hfshowrecords.php?id=" +  horse.id.toString().padStart(5, "0") + "&name=" + horse.name} target='_newWindow'>Show Record</a></p>
+                                                { horse.special != null
+                                                    ? <div dangerouslySetInnerHTML={{__html: horse.special}} />
+                                                    : <></>
+                                                }
                                             </div>
                                         </Grid>
                                     </Grid>
